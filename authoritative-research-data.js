@@ -187,5 +187,19 @@ window.RESEARCH_DATA = [
     summary: 'Shows how predictive, generative, and agentic AI create value differently across physical and financial energy workflows.',
     titleZh: '《让AI在能源交易中创造价值》', summaryZh: '说明预测式、生成式和智能体AI如何在实体与金融能源工作流程中形成不同价值。',
     url: 'https://web-assets.bcg.com/pdf-src/prod-live/ai-transforming-energy-trading.pdf', format: 'PDF'
+  },
+  {
+    id: 'wef-future-jobs-2025', title: 'The Future of Jobs Report 2025', institution: 'World Economic Forum', date: '2025-01-07', year: '2025', type: 'Multilateral & policy',
+    industries: ['Cross-industry', 'Technology, Media & Telecommunications', 'Industrial Goods', 'Consumer Products & Retail'], mega: ['01', '02', '04'],
+    summary: 'Employer survey evidence on changing task allocation, skill gaps, workforce strategies, and the 2025-2030 human-machine frontier.',
+    titleZh: '《2025年未来就业报告》', summaryZh: '基于雇主调研，分析任务分工、技能缺口、人才战略及2025—2030年人机协作边界的变化。',
+    url: 'https://reports.weforum.org/docs/WEF_Future_of_Jobs_Report_2025.pdf', format: 'PDF'
+  },
+  {
+    id: 'imf-gen-ai-work-2024', title: 'Gen-AI: Artificial Intelligence and the Future of Work', institution: 'IMF', date: '2024-01-14', year: '2024', type: 'Multilateral & policy',
+    industries: ['Cross-industry', 'Industrial Goods', 'Consumer Products & Retail', 'Financial Institutions'], mega: ['01', '02', '04', '07'],
+    summary: 'Cross-country analysis of AI exposure, complementarity, labor reallocation, productivity, and distributional risk.',
+    titleZh: '《生成式AI：人工智能与工作的未来》', summaryZh: '跨国分析AI暴露度、互补性、劳动力再配置、生产率与分配风险。',
+    url: 'https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024001.pdf', format: 'PDF'
   }
 ];

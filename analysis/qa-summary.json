@@ -2,337 +2,385 @@
   {
     "slug": "mega-01-ai-operating-system",
     "lang": "en",
-    "pages": 2,
-    "sources": 13,
-    "title": "AI becomes the operating system of the enterprise"
+    "pages": 5,
+    "sources": 17,
+    "title": "AI becomes the operating system of the enterprise",
+    "characters": 8471
   },
   {
     "slug": "mega-01-ai-operating-system",
     "lang": "zh",
-    "pages": 2,
-    "sources": 13,
-    "title": "AI成为企业的操作系统"
+    "pages": 4,
+    "sources": 17,
+    "title": "AI成为企业的操作系统",
+    "characters": 3376
   },
   {
     "slug": "mega-02-management-constraint",
     "lang": "en",
-    "pages": 2,
-    "sources": 11,
-    "title": "Management—not technology—is the binding AI constraint"
+    "pages": 4,
+    "sources": 14,
+    "title": "Management—not technology—is the binding AI constraint",
+    "characters": 7568
   },
   {
     "slug": "mega-02-management-constraint",
     "lang": "zh",
-    "pages": 2,
-    "sources": 11,
-    "title": "管理而非技术成为AI规模化的核心约束"
+    "pages": 4,
+    "sources": 14,
+    "title": "管理而非技术成为AI规模化的核心约束",
+    "characters": 2950
   },
   {
     "slug": "mega-03-resilience-strategy",
     "lang": "en",
-    "pages": 2,
+    "pages": 4,
     "sources": 12,
-    "title": "Resilience becomes a permanent strategy setting"
+    "title": "Resilience becomes a permanent strategy setting",
+    "characters": 7162
   },
   {
     "slug": "mega-03-resilience-strategy",
     "lang": "zh",
-    "pages": 2,
+    "pages": 4,
     "sources": 12,
-    "title": "韧性成为长期战略设定"
+    "title": "韧性成为长期战略设定",
+    "characters": 2810
   },
   {
     "slug": "mega-04-productivity-cost-ai",
     "lang": "en",
-    "pages": 2,
-    "sources": 11,
-    "title": "Productivity, cost, and AI converge into one agenda"
+    "pages": 4,
+    "sources": 14,
+    "title": "Productivity, cost, and AI converge into one agenda",
+    "characters": 7164
   },
   {
     "slug": "mega-04-productivity-cost-ai",
     "lang": "zh",
-    "pages": 2,
-    "sources": 11,
-    "title": "生产率、成本与AI汇聚为同一议程"
+    "pages": 4,
+    "sources": 14,
+    "title": "生产率、成本与AI汇聚为同一议程",
+    "characters": 2888
   },
   {
     "slug": "mega-05-capital-strategic-capacity",
     "lang": "en",
-    "pages": 2,
-    "sources": 13,
-    "title": "Capital rotates back into strategic capacity"
+    "pages": 4,
+    "sources": 14,
+    "title": "Capital rotates back into strategic capacity",
+    "characters": 7092
   },
   {
     "slug": "mega-05-capital-strategic-capacity",
     "lang": "zh",
-    "pages": 2,
+    "pages": 4,
+    "sources": 14,
+    "title": "资本重新流向战略能力",
+    "characters": 2793
+  },
+  {
+    "slug": "mega-06-investable-sustainability",
+    "lang": "en",
+    "pages": 4,
+    "sources": 11,
+    "title": "Sustainability shifts from narrative to investable execution",
+    "characters": 6908
+  },
+  {
+    "slug": "mega-06-investable-sustainability",
+    "lang": "zh",
+    "pages": 4,
+    "sources": 11,
+    "title": "可持续发展从叙事转向可投资的执行",
+    "characters": 2672
+  },
+  {
+    "slug": "mega-07-growth-local-youthful-markets",
+    "lang": "en",
+    "pages": 4,
     "sources": 13,
-    "title": "资本重新流向战略能力"
-  },
-  {
-    "slug": "mega-06-investable-sustainability",
-    "lang": "en",
-    "pages": 2,
-    "sources": 11,
-    "title": "Sustainability shifts from narrative to investable execution"
-  },
-  {
-    "slug": "mega-06-investable-sustainability",
-    "lang": "zh",
-    "pages": 2,
-    "sources": 11,
-    "title": "可持续发展从叙事转向可投资的执行"
-  },
-  {
-    "slug": "mega-07-growth-local-youthful-markets",
-    "lang": "en",
-    "pages": 2,
-    "sources": 12,
-    "title": "Growth rebalances toward large, local, youthful markets"
+    "title": "Growth rebalances toward large, local, youthful markets",
+    "characters": 7190
   },
   {
     "slug": "mega-07-growth-local-youthful-markets",
     "lang": "zh",
-    "pages": 2,
+    "pages": 4,
+    "sources": 13,
+    "title": "增长重心转向大型、本地化且年轻的市场",
+    "characters": 2861
+  },
+  {
+    "slug": "industry-tmt-ai-infrastructure",
+    "lang": "en",
+    "pages": 4,
+    "sources": 13,
+    "title": "AI infrastructure becomes a full-stack constraint",
+    "characters": 7221
+  },
+  {
+    "slug": "industry-tmt-ai-infrastructure",
+    "lang": "zh",
+    "pages": 4,
+    "sources": 13,
+    "title": "AI基础设施成为全栈约束",
+    "characters": 2851
+  },
+  {
+    "slug": "industry-tmt-ai-capital-returns",
+    "lang": "en",
+    "pages": 4,
     "sources": 12,
-    "title": "增长重心转向大型、本地化且年轻的市场"
-  },
-  {
-    "slug": "industry-tmt-ai-infrastructure",
-    "lang": "en",
-    "pages": 2,
-    "sources": 10,
-    "title": "AI infrastructure becomes a full-stack constraint"
-  },
-  {
-    "slug": "industry-tmt-ai-infrastructure",
-    "lang": "zh",
-    "pages": 2,
-    "sources": 10,
-    "title": "AI基础设施成为全栈约束"
-  },
-  {
-    "slug": "industry-tmt-ai-capital-returns",
-    "lang": "en",
-    "pages": 2,
-    "sources": 9,
-    "title": "AI capital enters a returns-and-utilization phase"
+    "title": "AI capital enters a returns-and-utilization phase",
+    "characters": 6878
   },
   {
     "slug": "industry-tmt-ai-capital-returns",
     "lang": "zh",
-    "pages": 2,
-    "sources": 9,
-    "title": "AI资本进入回报与利用率审视阶段"
+    "pages": 4,
+    "sources": 12,
+    "title": "AI资本进入回报与利用率审视阶段",
+    "characters": 2781
   },
   {
     "slug": "industry-tmt-agentic-interface",
     "lang": "en",
-    "pages": 2,
-    "sources": 9,
-    "title": "Agentic AI becomes the commercial interface"
+    "pages": 4,
+    "sources": 12,
+    "title": "Agentic AI becomes the commercial interface",
+    "characters": 6578
   },
   {
     "slug": "industry-tmt-agentic-interface",
     "lang": "zh",
-    "pages": 2,
-    "sources": 9,
-    "title": "智能体AI成为新的商业交互界面"
+    "pages": 4,
+    "sources": 12,
+    "title": "智能体AI成为新的商业交互界面",
+    "characters": 2642
   },
   {
     "slug": "industry-tmt-china-ai-stack",
     "lang": "en",
-    "pages": 2,
-    "sources": 9,
-    "title": "China's AI stack localizes under constraint"
+    "pages": 4,
+    "sources": 12,
+    "title": "China's AI stack localizes under constraint",
+    "characters": 6797
   },
   {
     "slug": "industry-tmt-china-ai-stack",
     "lang": "zh",
-    "pages": 2,
+    "pages": 4,
+    "sources": 12,
+    "title": "中国AI技术栈在约束下加速本地化",
+    "characters": 2718
+  },
+  {
+    "slug": "industry-tmt-robotics-deployment",
+    "lang": "en",
+    "pages": 4,
+    "sources": 8,
+    "title": "Robotics moves from capital excitement to deployment proof",
+    "characters": 6056
+  },
+  {
+    "slug": "industry-tmt-robotics-deployment",
+    "lang": "zh",
+    "pages": 4,
+    "sources": 8,
+    "title": "机器人从资本热度转向部署验证",
+    "characters": 2352
+  },
+  {
+    "slug": "industry-fi-regulated-digital-money",
+    "lang": "en",
+    "pages": 4,
+    "sources": 6,
+    "title": "Regulated digital money moves into the core",
+    "characters": 6500
+  },
+  {
+    "slug": "industry-fi-regulated-digital-money",
+    "lang": "zh",
+    "pages": 4,
+    "sources": 6,
+    "title": "受监管数字货币进入核心体系",
+    "characters": 2470
+  },
+  {
+    "slug": "industry-fi-trust-interoperability",
+    "lang": "en",
+    "pages": 4,
+    "sources": 7,
+    "title": "Trust and interoperability become design constraints",
+    "characters": 6370
+  },
+  {
+    "slug": "industry-fi-trust-interoperability",
+    "lang": "zh",
+    "pages": 4,
+    "sources": 7,
+    "title": "信任与互操作性成为设计约束",
+    "characters": 2373
+  },
+  {
+    "slug": "industry-fi-banking-economics",
+    "lang": "en",
+    "pages": 4,
+    "sources": 8,
+    "title": "Banking economics reallocate—not collapse",
+    "characters": 6456
+  },
+  {
+    "slug": "industry-fi-banking-economics",
+    "lang": "zh",
+    "pages": 4,
+    "sources": 8,
+    "title": "银行业经济性重新分配，而非崩塌",
+    "characters": 2486
+  },
+  {
+    "slug": "industry-energy-execution-capacity",
+    "lang": "en",
+    "pages": 4,
+    "sources": 8,
+    "title": "Execution capacity becomes scarce",
+    "characters": 5787
+  },
+  {
+    "slug": "industry-energy-execution-capacity",
+    "lang": "zh",
+    "pages": 4,
+    "sources": 8,
+    "title": "执行能力成为稀缺资源",
+    "characters": 2273
+  },
+  {
+    "slug": "industry-energy-security",
+    "lang": "en",
+    "pages": 4,
+    "sources": 11,
+    "title": "Energy security becomes a permanent strategy setting",
+    "characters": 6399
+  },
+  {
+    "slug": "industry-energy-security",
+    "lang": "zh",
+    "pages": 4,
+    "sources": 11,
+    "title": "能源安全成为长期战略设定",
+    "characters": 2493
+  },
+  {
+    "slug": "industry-energy-bankable-transition",
+    "lang": "en",
+    "pages": 4,
+    "sources": 11,
+    "title": "Transition capital demands bankable allocation",
+    "characters": 6469
+  },
+  {
+    "slug": "industry-energy-bankable-transition",
+    "lang": "zh",
+    "pages": 4,
+    "sources": 11,
+    "title": "转型资本需要可融资的配置机制",
+    "characters": 2564
+  },
+  {
+    "slug": "industry-industrial-ai-innovation",
+    "lang": "en",
+    "pages": 4,
+    "sources": 10,
+    "title": "AI compresses selected innovation cycles",
+    "characters": 6872
+  },
+  {
+    "slug": "industry-industrial-ai-innovation",
+    "lang": "zh",
+    "pages": 4,
+    "sources": 10,
+    "title": "AI压缩部分创新周期",
+    "characters": 2617
+  },
+  {
+    "slug": "industry-industrial-cost-fuel",
+    "lang": "en",
+    "pages": 4,
+    "sources": 10,
+    "title": "Cost becomes transformation fuel",
+    "characters": 6660
+  },
+  {
+    "slug": "industry-industrial-cost-fuel",
+    "lang": "zh",
+    "pages": 4,
+    "sources": 10,
+    "title": "成本成为转型燃料",
+    "characters": 2584
+  },
+  {
+    "slug": "industry-industrial-resilient-operations",
+    "lang": "en",
+    "pages": 4,
     "sources": 9,
-    "title": "中国AI技术栈在约束下加速本地化"
-  },
-  {
-    "slug": "industry-tmt-robotics-deployment",
-    "lang": "en",
-    "pages": 2,
-    "sources": 6,
-    "title": "Robotics moves from capital excitement to deployment proof"
-  },
-  {
-    "slug": "industry-tmt-robotics-deployment",
-    "lang": "zh",
-    "pages": 2,
-    "sources": 6,
-    "title": "机器人从资本热度转向部署验证"
-  },
-  {
-    "slug": "industry-fi-regulated-digital-money",
-    "lang": "en",
-    "pages": 2,
-    "sources": 5,
-    "title": "Regulated digital money moves into the core"
-  },
-  {
-    "slug": "industry-fi-regulated-digital-money",
-    "lang": "zh",
-    "pages": 2,
-    "sources": 5,
-    "title": "受监管数字货币进入核心体系"
-  },
-  {
-    "slug": "industry-fi-trust-interoperability",
-    "lang": "en",
-    "pages": 2,
-    "sources": 6,
-    "title": "Trust and interoperability become design constraints"
-  },
-  {
-    "slug": "industry-fi-trust-interoperability",
-    "lang": "zh",
-    "pages": 2,
-    "sources": 6,
-    "title": "信任与互操作性成为设计约束"
-  },
-  {
-    "slug": "industry-fi-banking-economics",
-    "lang": "en",
-    "pages": 2,
-    "sources": 5,
-    "title": "Banking economics reallocate—not collapse"
-  },
-  {
-    "slug": "industry-fi-banking-economics",
-    "lang": "zh",
-    "pages": 2,
-    "sources": 5,
-    "title": "银行业经济性重新分配，而非崩塌"
-  },
-  {
-    "slug": "industry-energy-execution-capacity",
-    "lang": "en",
-    "pages": 2,
-    "sources": 6,
-    "title": "Execution capacity becomes scarce"
-  },
-  {
-    "slug": "industry-energy-execution-capacity",
-    "lang": "zh",
-    "pages": 2,
-    "sources": 6,
-    "title": "执行能力成为稀缺资源"
-  },
-  {
-    "slug": "industry-energy-security",
-    "lang": "en",
-    "pages": 2,
-    "sources": 6,
-    "title": "Energy security becomes a permanent strategy setting"
-  },
-  {
-    "slug": "industry-energy-security",
-    "lang": "zh",
-    "pages": 1,
-    "sources": 6,
-    "title": "能源安全成为长期战略设定"
-  },
-  {
-    "slug": "industry-energy-bankable-transition",
-    "lang": "en",
-    "pages": 2,
-    "sources": 6,
-    "title": "Transition capital demands bankable allocation"
-  },
-  {
-    "slug": "industry-energy-bankable-transition",
-    "lang": "zh",
-    "pages": 2,
-    "sources": 6,
-    "title": "转型资本需要可融资的配置机制"
-  },
-  {
-    "slug": "industry-industrial-ai-innovation",
-    "lang": "en",
-    "pages": 2,
-    "sources": 7,
-    "title": "AI compresses selected innovation cycles"
-  },
-  {
-    "slug": "industry-industrial-ai-innovation",
-    "lang": "zh",
-    "pages": 2,
-    "sources": 7,
-    "title": "AI压缩部分创新周期"
-  },
-  {
-    "slug": "industry-industrial-cost-fuel",
-    "lang": "en",
-    "pages": 2,
-    "sources": 5,
-    "title": "Cost becomes transformation fuel"
-  },
-  {
-    "slug": "industry-industrial-cost-fuel",
-    "lang": "zh",
-    "pages": 2,
-    "sources": 5,
-    "title": "成本成为转型燃料"
-  },
-  {
-    "slug": "industry-industrial-resilient-operations",
-    "lang": "en",
-    "pages": 2,
-    "sources": 6,
-    "title": "Resilience reshapes operations"
+    "title": "Resilience reshapes operations",
+    "characters": 6573
   },
   {
     "slug": "industry-industrial-resilient-operations",
     "lang": "zh",
-    "pages": 1,
-    "sources": 6,
-    "title": "韧性重塑运营网络"
+    "pages": 4,
+    "sources": 9,
+    "title": "韧性重塑运营网络",
+    "characters": 2584
   },
   {
     "slug": "industry-consumer-two-speed-demand",
     "lang": "en",
-    "pages": 2,
-    "sources": 7,
-    "title": "Two-speed demand becomes structural"
+    "pages": 4,
+    "sources": 8,
+    "title": "Two-speed demand becomes structural",
+    "characters": 6294
   },
   {
     "slug": "industry-consumer-two-speed-demand",
     "lang": "zh",
-    "pages": 2,
-    "sources": 7,
-    "title": "双速需求成为结构性特征"
+    "pages": 4,
+    "sources": 8,
+    "title": "双速需求成为结构性特征",
+    "characters": 2429
   },
   {
     "slug": "industry-consumer-local-global",
     "lang": "en",
-    "pages": 2,
-    "sources": 7,
-    "title": "Commercial propositions localize while networks stay global"
+    "pages": 4,
+    "sources": 11,
+    "title": "Commercial propositions localize while networks stay global",
+    "characters": 6797
   },
   {
     "slug": "industry-consumer-local-global",
     "lang": "zh",
-    "pages": 2,
-    "sources": 7,
-    "title": "商业主张本地化，网络仍保持全球连接"
+    "pages": 4,
+    "sources": 11,
+    "title": "商业主张本地化，网络仍保持全球连接",
+    "characters": 2663
   },
   {
     "slug": "industry-consumer-ai-commercial-system",
     "lang": "en",
-    "pages": 2,
-    "sources": 7,
-    "title": "AI selectively scales across the commercial system"
+    "pages": 4,
+    "sources": 10,
+    "title": "AI selectively scales across the commercial system",
+    "characters": 6948
   },
   {
     "slug": "industry-consumer-ai-commercial-system",
     "lang": "zh",
-    "pages": 2,
-    "sources": 7,
-    "title": "AI在商业体系中选择性规模化"
+    "pages": 4,
+    "sources": 10,
+    "title": "AI在商业体系中选择性规模化",
+    "characters": 2658
   }
 ]

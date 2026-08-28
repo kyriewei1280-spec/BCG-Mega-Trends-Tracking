@@ -79,7 +79,7 @@
     };
     const statusKeys={Accelerating:'statusAccelerating',Structural:'statusStructural',Rising:'statusRising',Reframed:'statusReframed',Scaling:'statusScaling','Emerging signal':'statusEmerging'};
     let currentLang=localStorage.getItem('weeklyBriefAtlasLanguage')==='zh'?'zh':'en';
-    const t=key=>copy[currentLang][key]||copy.en[key]||key;
+    const t=key=>key==='researchSourceBullet1'?(currentLang==='zh'?`${research.length}份精选报告，覆盖18家顶级机构`:`${research.length} curated reports from 18 top-tier institutions`):(copy[currentLang][key]||copy.en[key]||key);
     const localize=x=>currentLang==='zh'?(taxonomyZh[x]||x):x;
     const statusLabel=x=>t(statusKeys[x]||x);
     const briefTranslations=window.BRIEF_TRANSLATIONS||{ceoZh:{},tmtEn:{}};
@@ -218,4 +218,3 @@
   </script>
 </body>
 </html>
-
