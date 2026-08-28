@@ -9,7 +9,7 @@
     "titleZh": "AI成为企业的操作系统",
     "pdfEn": "analysis/en/mega-01-ai-operating-system.pdf",
     "pdfZh": "analysis/zh/mega-01-ai-operating-system.pdf",
-    "pagesEn": 5,
+    "pagesEn": 4,
     "pagesZh": 4,
     "briefIds": [
       "digital-assets",
@@ -568,7 +568,7 @@
     "pdfEn": "analysis/en/industry-tmt-robotics-deployment.pdf",
     "pdfZh": "analysis/zh/industry-tmt-robotics-deployment.pdf",
     "pagesEn": 4,
-    "pagesZh": 4,
+    "pagesZh": 3,
     "briefIds": [
       "tmt-daily-2026-08-25",
       "tmt-daily-2026-08-18",
@@ -595,7 +595,7 @@
     "pdfEn": "analysis/en/industry-fi-regulated-digital-money.pdf",
     "pdfZh": "analysis/zh/industry-fi-regulated-digital-money.pdf",
     "pagesEn": 4,
-    "pagesZh": 4,
+    "pagesZh": 3,
     "briefIds": [
       "digital-assets",
       "banking",
@@ -620,7 +620,7 @@
     "pdfEn": "analysis/en/industry-fi-trust-interoperability.pdf",
     "pdfZh": "analysis/zh/industry-fi-trust-interoperability.pdf",
     "pagesEn": 4,
-    "pagesZh": 4,
+    "pagesZh": 3,
     "briefIds": [
       "fintech",
       "banking",
@@ -646,7 +646,7 @@
     "pdfEn": "analysis/en/industry-fi-banking-economics.pdf",
     "pdfZh": "analysis/zh/industry-fi-banking-economics.pdf",
     "pagesEn": 4,
-    "pagesZh": 4,
+    "pagesZh": 3,
     "briefIds": [
       "banking",
       "digital-assets",
@@ -673,7 +673,7 @@
     "pdfEn": "analysis/en/industry-energy-execution-capacity.pdf",
     "pdfZh": "analysis/zh/industry-energy-execution-capacity.pdf",
     "pagesEn": 4,
-    "pagesZh": 4,
+    "pagesZh": 3,
     "briefIds": [
       "energy",
       "trade",
@@ -700,7 +700,7 @@
     "pdfEn": "analysis/en/industry-energy-security.pdf",
     "pdfZh": "analysis/zh/industry-energy-security.pdf",
     "pagesEn": 4,
-    "pagesZh": 4,
+    "pagesZh": 3,
     "briefIds": [
       "energy",
       "trade",
@@ -818,7 +818,7 @@
     "pdfEn": "analysis/en/industry-industrial-resilient-operations.pdf",
     "pdfZh": "analysis/zh/industry-industrial-resilient-operations.pdf",
     "pagesEn": 4,
-    "pagesZh": 4,
+    "pagesZh": 3,
     "briefIds": [
       "trade",
       "india",
@@ -846,7 +846,7 @@
     "pdfEn": "analysis/en/industry-consumer-two-speed-demand.pdf",
     "pdfZh": "analysis/zh/industry-consumer-two-speed-demand.pdf",
     "pagesEn": 4,
-    "pagesZh": 4,
+    "pagesZh": 3,
     "briefIds": [
       "india",
       "trade",
@@ -903,7 +903,7 @@
     "pdfEn": "analysis/en/industry-consumer-ai-commercial-system.pdf",
     "pdfZh": "analysis/zh/industry-consumer-ai-commercial-system.pdf",
     "pagesEn": 4,
-    "pagesZh": 4,
+    "pagesZh": 3,
     "briefIds": [
       "ai-bill",
       "ai-cost",
