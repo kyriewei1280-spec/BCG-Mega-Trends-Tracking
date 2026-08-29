@@ -1,11 +1,11 @@
 {
   "scope": {
-    "verifiedAt": "2026-08-28",
+    "verifiedAt": "2026-08-30",
     "articles": 24,
     "cards": 96,
     "uniqueSourceRefs": 37,
     "verified": 96,
-    "corrected": 4,
+    "corrected": 46,
     "removed": 0,
     "method": "Every card is traced to a Brief excerpt or an external-report page before publication."
   },
@@ -21,8 +21,8 @@
       "sourceDate": "2026-06-17",
       "sourcePage": null,
       "evidenceExcerpt": "This is one of the big takeaways from BCG’s fourth annual AI at Work survey of nearly 12,000 employees in more than a dozen markets. Clear direction combined with more limited access to AI tools lifts measurable business output by 20 percentage points compared with companies with broad access to tools but limited direction, according to the survey.. At the same time, 41% report increased cognitive load. When AI actions are aligned with messaging from the top, employees are 28 percentage points more likely to enjoy work and 19 percentage points more likely to see improvement in key business metrics. When companies track value from AI, employees are 24 points more likely to be happy and 22 percentage points more likely to see measurable impact. And when companies are actively reshaping business functions and inventing new business models, employees are 23 percentage points more likely to be able to show how AI helps them create value.. Today, 30% of organizations have integrated agents into their workflows, more than double last year’s share, according to the survey. Within three years, 61% of employees believe agents could perform at least half their job.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-01-ai-operating-system",
@@ -35,8 +35,8 @@
       "sourceDate": "2026-05-06",
       "sourcePage": null,
       "evidenceExcerpt": "AI leaders deliver 3 times greater cost reduction, 1.6 times higher EBIT margins, and 2.7 times the return on invested capital relative to their peers, according to BCG’s Build for the Future research.. The company has more than 2,000 brands and a presence in 185 countries. An AI solution scraped more than 200,000 purchase orders covering more than 100,000 spare parts. The insights generated allowed the company to consolidate nearly 7,900 suppliers into eight distributors.. In its first year, this three-year transformation delivered CHF 700 million ($900 million) in savings.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-01-ai-operating-system",
@@ -63,22 +63,22 @@
       "sourceDate": "2026-06-17",
       "sourcePage": null,
       "evidenceExcerpt": "This is one of the big takeaways from BCG’s fourth annual AI at Work survey of nearly 12,000 employees in more than a dozen markets. Clear direction combined with more limited access to AI tools lifts measurable business output by 20 percentage points compared with companies with broad access to tools but limited direction, according to the survey.. At the same time, 41% report increased cognitive load. When AI actions are aligned with messaging from the top, employees are 28 percentage points more likely to enjoy work and 19 percentage points more likely to see improvement in key business metrics. When companies track value from AI, employees are 24 points more likely to be happy and 22 percentage points more likely to see measurable impact. And when companies are actively reshaping business functions and inventing new business models, employees are 23 percentage points more likely to be able to show how AI helps them create value.. Today, 30% of organizations have integrated agents into their workflows, more than double last year’s share, according to the survey. Within three years, 61% of employees believe agents could perform at least half their job.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-02-management-constraint",
       "card": 1,
       "value": "+20 pp",
-      "statement": "difference in measurable output for companies with clear direction and narrower tool access versus broad access but limited direction.",
-      "classification": "reported_actual",
+      "statement": "survey-reported difference in measurable business output for companies with clear direction and narrower tool access versus broad access but limited direction.",
+      "classification": "survey",
       "sourceRef": "brief:strategic-clarity-drives-ai-value",
       "sourceTitle": "Strategic Clarity Drives AI Value",
       "sourceDate": "2026-06-17",
       "sourcePage": null,
       "evidenceExcerpt": "This is one of the big takeaways from BCG’s fourth annual AI at Work survey of nearly 12,000 employees in more than a dozen markets. Clear direction combined with more limited access to AI tools lifts measurable business output by 20 percentage points compared with companies with broad access to tools but limited direction, according to the survey.. At the same time, 41% report increased cognitive load. When AI actions are aligned with messaging from the top, employees are 28 percentage points more likely to enjoy work and 19 percentage points more likely to see improvement in key business metrics. When companies track value from AI, employees are 24 points more likely to be happy and 22 percentage points more likely to see measurable impact. And when companies are actively reshaping business functions and inventing new business models, employees are 23 percentage points more likely to be able to show how AI helps them create value.. Today, 30% of organizations have integrated agents into their workflows, more than double last year’s share, according to the survey. Within three years, 61% of employees believe agents could perform at least half their job.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-02-management-constraint",
@@ -105,8 +105,8 @@
       "sourceDate": "2026-04-08",
       "sourcePage": null,
       "evidenceExcerpt": "Within three years, 50% to 55% of US jobs will be reshaped by AI. In five years, 10% to 15% could be eliminated.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-02-management-constraint",
@@ -133,50 +133,50 @@
       "sourceDate": "2024-06-24",
       "sourcePage": null,
       "evidenceExcerpt": "The post-Cold War era of free trade and global cooperation is over, forcing CEOs-especially those of international companies-to confront a fragmented world that echoes back nearly 100 years to the time between the two World Wars.. More than 70 countries representing half the global population have already or will go to the polls this year in elections that put the economy and nationalist policies in the spotlight. Thirty-one OECD nations screened inbound investments in 2023, up from thirteen in 2010..",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-03-resilience-strategy",
       "card": 2,
       "value": "4.6% to 1.9%",
-      "statement": "WTO baseline change in merchandise-trade volume growth from 2025 to the 2026 forecast; 2027 is forecast at 2.6%.",
-      "classification": "forecast",
+      "statement": "WTO merchandise-trade volume growth: 4.6% actual in 2025 to 1.9% forecast for 2026; 2.6% forecast for 2027.",
+      "classification": "mixed_status",
       "sourceRef": "report:wto-trade-outlook-2026:p4",
       "sourceTitle": "Global Trade Outlook and Statistics — March 2026",
       "sourceDate": "2026-03-19",
       "sourcePage": 4,
       "evidenceExcerpt": "GLOBAL TRADE OUTLOOK AND STATISTICS - MARCH 2026 Executive summary • World trade is set to slow in 2026 following a stronger than expected rise last year. In our baseline scenario, merchandise trade volume growth would drop from 4.6% in 2025 to 1.9% in 2026 before picking up to 2.6% in 2027. The same scenario for services trade volume would see growth easing from 5.3% in 2025 to 4.8% in 2026, then rising to 5.1% in 2027. • In 2025, world goods and services trade grew around 4.7%, exceeding world GDP growth of 2.9%. In 2026, goods and services trade and GDP should grow at around the same rate (2.7% for trade, 2.8% for GDP). • The current US dollar value of world merchandise trade as measured by exports was US$ 26.26 trillion in 2025, up 7% compared to 2024. Services trade reached US$ 9.56 trillion last year, up 8% over the previous year. Goods and services trade, on a balance-of-payments basis, came to US$ 34.65 trillion in 2025, up 7% year-on-year. • If sustained, the high oil prices related to the recent Middle East conflict could shave 0.5 percentage points off the 1.9% merchandise trade growth in 2026. Conversely, growth could also be boosted by 0.5 percentage points if trade in AI-related goods remains as strong as in 2025. Which factor will predominate over the course of the year remains to be seen. • The impact of the Middle East conflict on services trade could be as strong as on merchandise, subtracting 0.7 percentage points from growth in 2026, due to significant downside risks to international transport and travel. A prolonged conflict could keep transport and fuel costs structurally elevated, disrupt key shipping and air routes, and weigh on regional tourism and global travel demand. • The volume of world merchandise trade grew 4.6% in 2025, well above our October forecast of 2.4%, as surging demand for AI-related goods - related to the global investment boom in the sector - offset the negative impacts of higher tariffs and increased trade policy uncertainty. • The 2026 forecast for merchandise trade growth, while lower than the 2025 result, is still above the previous forecast of 0.5%. The revision was due to upgraded GDP growth projections, the expectation of continued strong growth in AI-related trade, and a smaller than anticipated impact of tariffs. Recent trade policy changes in 2026 mostly involved substitution of legal instruments rather than a substantive change in tariff barriers. 2",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-03-resilience-strategy",
       "card": 3,
-      "value": "2.5%",
-      "statement": "World Bank forecast for global growth in 2026, down from 2.9% in 2025, with downside risks emphasized.",
-      "classification": "forecast",
+      "value": "2.9% / 2.5%",
+      "statement": "World Bank global growth: 2.9% estimated for 2025 and 2.5% forecast for 2026, with downside risks emphasized.",
+      "classification": "mixed_status",
       "sourceRef": "report:world-bank-gep-2026-06:p25",
       "sourceTitle": "Global Economic Prospects — June 2026",
       "sourceDate": "2026-06-16",
       "sourcePage": 25,
       "evidenceExcerpt": "GLOBAL ECONOMIC PROSPECTS | JUNE 2026 CHAPTER 1 3 T he global economy is facing another major shock. The conf lict in the Middle East has triggered sharp increases in energy prices, renewed inflationary pressures, and fueled expectations of tighter monetary policy. Global growth is projected to slow from 2.9 percent in 2025 to 2.5 percent in 2026-the lowest rate since the COVID-19 pandemic-amid weaker prospects for economies dependent on energy imports and those directly affected by hostilities. Activity is expected to firm in 2027-28 as energy supplies recover, monetary easing resumes, and trade strengthens. Risks to the outlook remain skewed to the downside. A renewed escalation of hostilities or more prolonged disruptions to commodity flows could further raise commodity prices, intensify inflationary pressures and food insecurity, trigger financial stress, and lower growth. If energy supply disruptions prove to be more severe than assumed and are accompanied by substantial financial stress, global growth could fall to just 1.3 percent in 2026. Persistent trade policy uncertainty, geopolitical strains, and weather-related shocks also pose material risks. On the upside, a broadening of artificial intelligence (AI)-related investment and its adoption could lift activity. Policy action is critical to address ongoing challenges. Enhanced global cooperation is needed to safeguard energy and food security, bolster the trading system, and advance the energy transition. Domestically, policy makers will need to balance controlling inflation with supporting activity, strengthen fiscal sustainability, and maintain financial stability. Slower growth prospects translate into reduced investment, constrained hiring, and tighter fiscal space, compounding the challenge of creating jobs in EMDEs with growing workforces in an era of potentially transformative change linked to AI. Meeting this challenge will require a concerted agenda centered on the conditions for job creation: investing in physical, human, and digital capital; fostering a business-friendly environment; and mobilizing private investment. Summary with shipping volumes haltingly resuming thereaf- ter, and approaching pre-conflict levels by the end The global economic outlook has shifted markedly of the year. These disruptions are projected to as the conflict in the Middle East has generated keep energy prices elevated, with the Brent crude major disruptions in energy markets. Before the oil price averaging $94/barrel (bbl) in 2026, an outbreak of the conflict, global activity seemed to increase of 36 percent over 2025 and more than be on a firm footing, supported by strong growth 50 percent above the January projection. Europe- in some major economies and better-than- an natural gas prices are anticipated to rise about expected global trade, amid robust growth in 30 percent in 2026, on tightened liquefied natural artificial intelligence (AI)-related technology gas (LNG) availability globally. The conflict has exports and a slight decline in tariff levels. The also severely disrupted global fertilizer trade, conflict, however, has led to a marked deteriora- triggering sharp price increases that reflect the tion in the global outlook, with about two-thirds Gulf’s large share of global fertilizer exports and of economies around the world facing weaker the surge in natural gas prices, a key input for growth prospects (figure 1.1.A). nitrogen fertilizers. Disruptions to flows of energy and other com- While conflict-related disruptions are weighing on modity supplies from the Gulf region have led to commodity trade flows, an improved trade policy sharp commodity price increases (figure 1.1.B). environment and buoyant AI-related investment Overall, commodity prices are expected to rise by provide countervailing support to global trade 22 percent in 2026, in contrast to the 7 percent (figure 1.1.C). This is in part attributable to a decline expected in January. This reflects a baseline slight decline in U.S. tariffs following a U.S. assumption that shipping through the Strait of Supreme Court ruling that struck down tariffs Hormuz remains severely disrupted through July, imposed on international economic emergency grounds, alongside trade liberalization efforts by other countries. Note: This chapter was prepared by Carlos Arteta, Nikita Perevalov, Peter Selcuk, Phil Kenworthy, Jiwon Lee, and Garima The increase in commodity prices has led to a Vasishtha, with contributions from Gitanjali Kumar, Neha Varma, Mirco Balatti, and Alen Mulabdic, and inputs from Dawit notable resurgence of inflationary pressures. Mekonnen, Edoardo Palombo, Shijie Shi, Naotaka Sugawara, and Headline inflation has picked up in both advanced Takuma Tanaka.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-03-resilience-strategy",
       "card": 4,
       "value": "2.9%",
-      "statement": "annual long-term global trade growth cited in the Brief archive, illustrating that rewiring can coexist with continued expansion.",
-      "classification": "reported_actual",
+      "statement": "forecast average annual global-trade growth over the next decade cited in the Brief archive, illustrating that rewiring can coexist with continued expansion.",
+      "classification": "forecast",
       "sourceRef": "brief:trade",
       "sourceTitle": "Navigating the New Dynamics of Global Trade",
       "sourceDate": "2025-01-14",
       "sourcePage": null,
       "evidenceExcerpt": "While global trade is expected to grow by 2.9% annually over the next decade, trade routes and relationships will fundamentally realign, according to our annual trade report.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-04-productivity-cost-ai",
@@ -189,8 +189,8 @@
       "sourceDate": "2026-05-06",
       "sourcePage": null,
       "evidenceExcerpt": "AI leaders deliver 3 times greater cost reduction, 1.6 times higher EBIT margins, and 2.7 times the return on invested capital relative to their peers, according to BCG’s Build for the Future research.. The company has more than 2,000 brands and a presence in 185 countries. An AI solution scraped more than 200,000 purchase orders covering more than 100,000 spare parts. The insights generated allowed the company to consolidate nearly 7,900 suppliers into eight distributors.. In its first year, this three-year transformation delivered CHF 700 million ($900 million) in savings.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-04-productivity-cost-ai",
@@ -217,8 +217,8 @@
       "sourceDate": "2025-03-04",
       "sourcePage": null,
       "evidenceExcerpt": "By rewiring their operating model to harness AI, R&D organizations are evolving into a powerhouse of value creation, reducing time-to-market up to 20% and lowering costs by up to 20%.. In shipbuilding, AI is optimizing design and reducing engineering rework by up to 30%.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-04-productivity-cost-ai",
@@ -301,22 +301,22 @@
       "sourceDate": "2026-05-28",
       "sourcePage": 6,
       "evidenceExcerpt": "World Energy Investment 2026 PAGE | 6 .0.4 YB CC .AEI Overview Executive Summary Despite the destabilising effect of the Middle East conflict, resilience and diversification will be a widely-shared preoccupation in capital flows to the energy sector are expected to grow to the wake of the crisis, both among energy exporters and importers. USD 3.4 trillion in 2026, a 5% rise from 2025. Around Recovery in the Middle East will be accompanied by a search for USD 2.2 trillion is expected to go collectively to renewables, nuclear, new routes to market grids, storage, low-emissions fuels, efficiency and electrification, and some USD 1.2 trillion to oil, natural gas and coal. Given that the world Within the Middle East, the conflict has already sparked a search is facing the largest energy security threat in history, this 11th edition for new energy export routes to reduce excessive reliance on of the annual World Energy Investment report is being released at a the Strait. Capital will also be required to repair damaged energy time of profound uncertainty for investors and policymakers. As with infrastructure. IEA tracking suggests that more than 30 energy previous energy shocks, many of the impacts will become visible only facilities in the Middle East have been damaged, either moderately later: around three-quarters of anticipated 2026 energy investments or severely, including refineries, petrochemical plants, upstream oil are effectively locked in, based on decisions made well before the and gas production sites, and 2 of the 14 liquefaction trains at the conflict began. But, no matter how and when this crisis ends, it will huge Ras Laffan LNG complex, which could take several years to leave a lasting mark on energy investment strategies and flows. repair. Additionally, some 20 tankers have been struck by missiles or drones. The total repair bill is difficult to establish with any precision, Coming so soon after the global energy crisis of 2021-2023, but is set to run into tens of billions of dollars. Higher domestic today’s conflict is expected to reinforce a strong prioritisation financing needs within the region could reduce outward capital flows, of energy security amongst decision-makers. However, while the which have been a growing source of financing for infrastructure and previous energy crisis was centred on Europe, following Russia’s energy projects in other regions. cuts to pipeline gas deliveries, the effects of today’s disruptions are felt most directly in the Middle East itself and in Asia, which had been The conflict has boosted revenues for most oil and gas the destination for 80-90% of energy exports from Gulf producers. producers, but also created new uncertainties Confidence in the reliability of transit through the Strait of Hormuz has The Middle East conflict has thrown oil markets into turmoil, but been profoundly shaken, and could remain fragile even once a the short-term guidance from oil companies on their 2026 resolution to the immediate conflict is reached. A renewed focus on investment plans has remained largely unchanged. Oil supply",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-06-investable-sustainability",
       "card": 2,
       "value": "485 to 950 TWh",
-      "statement": "IEA central projection for global data-center electricity consumption from 2025 to 2030.",
-      "classification": "forecast",
+      "statement": "Data-center electricity consumption: 485 TWh estimated for 2025 to 950 TWh central projection for 2030.",
+      "classification": "mixed_status",
       "sourceRef": "report:iea-energy-ai-2026:p10",
       "sourceTitle": "Key Questions on Energy and AI",
       "sourceDate": "2026-04-16",
       "sourcePage": 10,
       "evidenceExcerpt": "world, major model providers reported a threefold increase in active users and a fivefold increase in revenue over the past year, highlighting the rapid growth of demand. Across the AI value chain, a scramble for electricity, grid connections, manufacturing capacity, chips and capital has set in The speed of the AI revolution is increasingly contrasting with the speed of the physical, social and economic systems that underpin it. Bottlenecks across energy supply chains and advanced chip manufacturing have tightened since our last report. Planning and regulatory systems are being stretched by the wave of project applications for data centres, amid a broader trend of rapid load growth and electrification. Social acceptability is also a growing issue, as communities push back against data centre projects, and concerns about affordability and environmental impacts rise. Essential elements within the IT industry are currently facing limitations; notably, a shortage of high-bandwidth memory - integral to AI chip production - has developed over the past six months and is anticipated to persist through at least the end of 2027. Data centre investments have grown too large to be funded from company balance sheets alone, and large amounts of funding from capital markets will be critical for their buildout. As a result, the pace of data centre growth, and the resulting increase in energy consumption, will be sensitive to market sentiment, including expectations for returns on investment in data centres and AI deployment, as well as to broader macroeconomic and financing conditions. Understanding the energy implications of AI therefore also means following closely the technology’s economic trajectory. Our updated data centre electricity demand outlook sees near-term bottlenecks but longer-term upside The central projection for electricity demand from data centres remains close to the trajectory set out in the IEA’s 2025 report. Our updated projections see electricity consumption from data centres roughly doubling from 485 TWh in 2025 to 950 TWh in 2030, accounting for around 3% of global electricity demand by that date. Electricity consumption from AI-focused data centres grows much faster than overall data centre electricity consumption, tripling in this period. Bottlenecks across the value chain, however, are reducing the likelihood of more aggressive near-term scenarios, despite booming investment and surging project pipelines. The mid- to longer-term outlook for data centre electricity demand sees a possible upside. Investments in relieving bottlenecks across energy equipment and chip manufacturing, and rapid uptake of energy-intensive use cases of AI, raise the prospect that there could be an even higher upside case after 2030. The IEA will continue to update its projections regularly. AI is pushing data centre power density to the limits of today’s technologies An individual server rack within an advanced data centre is only the size of a large refrigerator, but by 2027 it could have peak power demand equivalent to that of 65 households. The speed of this shift is remarkable: between 2020 and 2025, the power 10 International Energy Agency | Key questions on energy and AI .0.4 YB CC .AEI",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-06-investable-sustainability",
@@ -336,15 +336,15 @@
       "articleSlug": "mega-06-investable-sustainability",
       "card": 4,
       "value": "$37 trillion",
-      "statement": "energy-transition investment need through 2030 cited in the Brief archive; roughly half was described as committed at the time.",
-      "classification": "reported_actual",
+      "statement": "estimated energy-transition investment need through 2030; the Brief said about half had been committed at the time.",
+      "classification": "modelled_estimate",
       "sourceRef": "brief:energy",
       "sourceTitle": "A Blueprint for the Energy Transition",
       "sourceDate": "2023-09-06",
       "sourcePage": null,
       "evidenceExcerpt": "Only one half of the $37 trillion investments needed by 2030 has been committed-and much of that is contingent on healthy returns.. We have proven technologies and a willingness to commit many trillions of dollars to the cause.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-07-growth-local-youthful-markets",
@@ -357,8 +357,8 @@
       "sourceDate": "2025-08-28",
       "sourcePage": null,
       "evidenceExcerpt": "At current growth rates, India is on a path to become a $7 trillion economy by 2030. India’s Gen Z population, 377 million strong, is close to the size of the entire population of the EU and larger than that of the US-and generating $860 billion in annual spending. Nearly $60 billion of India’s trade of $87 billion with the US (~2% of India’s GDP) is affected. This represents only 14% of India’s overall exports. India is also home to a vibrant community of nearly 3,000 AI startups and notably produces 2 million STEM graduates a year.. In my conversations with CEOs, I noticed that Indian companies have two other strengths that matter for AI: 1) a healthy skepticism that ensures AI investments will achieve a healthy ROI, and 2) once they decide to invest, an ability to move fast and change how employees deliver their work.. Over the past decade, the country has more than tripled its renewable energy capacity to 232 gigawatts and ranks fourth in renewable capacity. The government has committed to increase non-fossil fuel capacity by 500 gigawatts by the end of the decade.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-07-growth-local-youthful-markets",
@@ -378,15 +378,15 @@
       "articleSlug": "mega-07-growth-local-youthful-markets",
       "card": 3,
       "value": ">1/3",
-      "statement": "share of the world's people aged 15-24 expected to live in Africa by 2050; 600 million Africans still lacked electricity in the cited Brief.",
+      "statement": "share of the world's people aged 15-24 expected to live in Africa by 2050.",
       "classification": "forecast",
       "sourceRef": "brief:the-youthful-promise-of-africa",
       "sourceTitle": "The Youthful Promise of Africa",
       "sourceDate": "2023-11-07",
       "sourcePage": null,
       "evidenceExcerpt": "Africa is a sprawling continent with 54 countries that cannot be understood by visiting two cities. More than one-third of people aged 15 to 24 will live on the continent by 2050. As the world transitions to clean energy, providing electricity to the 600 million people in Africa still without it is critical. Up to 90% of Kenya’s electricity is from clean sources.. The energy transition cannot come soon enough in Africa, with 35 of the 50 nations most vulnerable to climate change on the continent. Africa has 60% of the world’s uncultivated arable land, but nearly one- quarter of Africans are food insecure, and the continent remains a net importer of food. In Africa, 22% of working-age people start small businesses, compared with 18% in Latin America and 13% in Asia. The Springboks went on to win the 2023 Rugby World Cup, the tournament they have now won more than any other team.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "mega-07-growth-local-youthful-markets",
@@ -399,22 +399,22 @@
       "sourceDate": "2023-11-07",
       "sourcePage": null,
       "evidenceExcerpt": "Africa is a sprawling continent with 54 countries that cannot be understood by visiting two cities. More than one-third of people aged 15 to 24 will live on the continent by 2050. As the world transitions to clean energy, providing electricity to the 600 million people in Africa still without it is critical. Up to 90% of Kenya’s electricity is from clean sources.. The energy transition cannot come soon enough in Africa, with 35 of the 50 nations most vulnerable to climate change on the continent. Africa has 60% of the world’s uncultivated arable land, but nearly one- quarter of Africans are food insecure, and the continent remains a net importer of food. In Africa, 22% of working-age people start small businesses, compared with 18% in Latin America and 13% in Asia. The Springboks went on to win the 2023 Rugby World Cup, the tournament they have now won more than any other team.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-tmt-ai-infrastructure",
       "card": 1,
       "value": "485 to 950 TWh",
-      "statement": "IEA central projection for global data-center electricity use from 2025 to 2030.",
-      "classification": "forecast",
+      "statement": "Data-center electricity consumption: 485 TWh estimated for 2025 to 950 TWh central projection for 2030.",
+      "classification": "mixed_status",
       "sourceRef": "report:iea-energy-ai-2026:p10",
       "sourceTitle": "Key Questions on Energy and AI",
       "sourceDate": "2026-04-16",
       "sourcePage": 10,
       "evidenceExcerpt": "world, major model providers reported a threefold increase in active users and a fivefold increase in revenue over the past year, highlighting the rapid growth of demand. Across the AI value chain, a scramble for electricity, grid connections, manufacturing capacity, chips and capital has set in The speed of the AI revolution is increasingly contrasting with the speed of the physical, social and economic systems that underpin it. Bottlenecks across energy supply chains and advanced chip manufacturing have tightened since our last report. Planning and regulatory systems are being stretched by the wave of project applications for data centres, amid a broader trend of rapid load growth and electrification. Social acceptability is also a growing issue, as communities push back against data centre projects, and concerns about affordability and environmental impacts rise. Essential elements within the IT industry are currently facing limitations; notably, a shortage of high-bandwidth memory - integral to AI chip production - has developed over the past six months and is anticipated to persist through at least the end of 2027. Data centre investments have grown too large to be funded from company balance sheets alone, and large amounts of funding from capital markets will be critical for their buildout. As a result, the pace of data centre growth, and the resulting increase in energy consumption, will be sensitive to market sentiment, including expectations for returns on investment in data centres and AI deployment, as well as to broader macroeconomic and financing conditions. Understanding the energy implications of AI therefore also means following closely the technology’s economic trajectory. Our updated data centre electricity demand outlook sees near-term bottlenecks but longer-term upside The central projection for electricity demand from data centres remains close to the trajectory set out in the IEA’s 2025 report. Our updated projections see electricity consumption from data centres roughly doubling from 485 TWh in 2025 to 950 TWh in 2030, accounting for around 3% of global electricity demand by that date. Electricity consumption from AI-focused data centres grows much faster than overall data centre electricity consumption, tripling in this period. Bottlenecks across the value chain, however, are reducing the likelihood of more aggressive near-term scenarios, despite booming investment and surging project pipelines. The mid- to longer-term outlook for data centre electricity demand sees a possible upside. Investments in relieving bottlenecks across energy equipment and chip manufacturing, and rapid uptake of energy-intensive use cases of AI, raise the prospect that there could be an even higher upside case after 2030. The IEA will continue to update its projections regularly. AI is pushing data centre power density to the limits of today’s technologies An individual server rack within an advanced data centre is only the size of a large refrigerator, but by 2027 it could have peak power demand equivalent to that of 65 households. The speed of this shift is remarkable: between 2020 and 2025, the power 10 International Energy Agency | Key questions on energy and AI .0.4 YB CC .AEI",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-tmt-ai-infrastructure",
@@ -462,15 +462,15 @@
       "articleSlug": "industry-tmt-ai-capital-returns",
       "card": 1,
       "value": ">$500 billion",
-      "statement": "capital sought for an AI-compute financing platform described in the TMT Daily archive.",
-      "classification": "reported_actual",
+      "statement": "proposed capital target for an AI-compute financing platform described in the TMT Daily archive.",
+      "classification": "forecast",
       "sourceRef": "brief:tmt-daily-2026-08-12",
       "sourceTitle": "AI算力融资提速，智能体与云基础设施加快商业化",
       "sourceDate": "2026-08-12",
       "sourcePage": null,
       "evidenceExcerpt": "英伟达与六家机构拟设AI算力融资平台并拟引入逾5000亿美元资本，将加速GPU与机房规模化并重塑算力销售模式。. CoreWeave披露Q2业绩与1040亿美元营收积压，表明企业级算力需求回升并推动其持续数十亿美元数据中心扩张。. 重点内容： 8月11日晚，AI智能体公司 Manus 宣布恢复独立运营。据接近公司的人士透露，腾讯、真格基金和红杉中国等原股东以约20亿美元从. Meta 手中回购 Manus 股份，其中腾讯还承接了 Benchmark 原有持股，成为 Manus 最大股东。此前，国家发改委已要求 Meta 终止收购并恢复交易前状态。Manus 表示，公司年化经常性收入（ARR）已从2025年12月的1亿美元增长至4亿美元，本次回购对应约5倍ARR估值。对于 Meta 收购后产生的部分用户数据，公司计划于8月23日至24日完成删除。. 回购使腾讯直接获得Manus的产品与海外客户，有助其扩张智能体业务；交易估值约5倍ARR，显著低于Meta收购时约20倍，反映估值回落。国家层面要求恢复原状并删除部分数据，将限制Meta在华资产整合与数据留存能力。. 重点内容： 公司宣布其编程产品ZCode用户数突破100万，并在产品中上线Goal、Subagents、Remote. Control和“闲时任务”等功能。公司称ZCode中所用GLM的上下文缓存命中率超过98%，并表示GLM Coding Plan用户可把不紧急的耗时任务安排在低峰时段自动执行，且在闲时任务权益范围内不扣减积分，推动Coding Agent从对话辅助向复杂任务的自主交付方向演进。. 重点内容： 谷歌公司公告称，Gemini 应用月活用户已超过10亿，并称为公司史上增长最快的产品。公告披露关键使用数据：63%的用户通过语音与. Gemini 交互，Gemini 每日生成超过1.5亿幅图像，可在40多款安卓应用上自动执行操作，iOS端活跃用户超过1亿；约20%的 Gemini Live 会话使用摄像或屏幕共享，38%的涉学请求包含附件。这些数据为公司披露，未经独立核实。. 华硕（Asustek）未审计月报显示，2026年7月集团营收为新台币841.3亿元，较去年同期增长53.3%、环比下降21%；今年前七个月合并营收累计新台币5502.3亿元，年增40.9%。同期台北未审计月报汇总显示，涵盖服务器组装、散热、电源、网通与测试的台湾AI服务器产业链7月营收达新台币2.59兆。. Daily；DIGITIMES Daily；DIGITIMES Daily ｜ 2026-08-11 09:28 香港时间. • CoreWeave：Q2营收25亿美元、经调整营业利1.28亿美元，营收积压1040亿美元.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-tmt-ai-capital-returns",
@@ -595,8 +595,8 @@
       "sourceDate": "2026-08-26",
       "sourcePage": null,
       "evidenceExcerpt": "字节跳动于2026年8月25日发布AI办公产品“豆包工作”，并宣布把TRAE、扣子等相关产品与团队并入，飞书产品团队与豆包合并以实现深度打通。公司在8月24日回应称，此次调整为统一AI办公Agent产品与资源，现有用户权益不会受影响；组织此前已于7月30日对飞书团队做拆分和重组。. 来源： Manual curated ｜ 2026-08-25 16:13 香港时间. Agent采用增加正推升数据监控与可观测性需求。ClickHouse年化经常性收入（ARR）自5月增长40%至3.5亿美元；Cribl称其ARR接近4亿美元，较2月增长33%。Grafana也称收入近期回升。行业并购同步升温：Elastic以8500万美元收购Deductive AI，Dynatrace以9.15亿美元收购Arize AI，Snowflake在6月完成对Observe的10亿美元收购。. Information ｜ 2026-08-26 01:05 香港时间. Information报道，纪录片流媒体CuriosityStream通过向AI模型公司授权视频内容实现业绩回升。公司称其拥有逾300万小时视频与音频版权，过去已完成约25笔授权交易；据接近公司的消息人士，Meta、Google、xAI、OpenAI和Anthropic均曾授权其数据。公司称典型协议涵盖6000至10000小时视频，最大协议超过10万小时。. Information ｜ 2026-08-26 01:05 香港时间. Information ｜ 2026-08-26 01:05 香港时间. 财新援引高盛研究称，到2035年中国7nm及以下逻辑芯片的供需缺口预计缩至34%，较2025年的92%收窄。该机构预计，2025年至2035年中国先进制程晶圆供给将以46%的年复合增速增长，至每月41万片；同期需求预计增至每月61.9万片。报告还预计，2030年中国AI芯片总潜在市场将达约4.56万亿元，其中推理需求约占70%。. 台媒报道，AI数据中心正向兆瓦级架构转型，已成为对电力与半导体供应链的新压力点。该转型直接拉动对功率半导体、备用电源（UPS）、液冷系统、输电容量和低碳电力的需求上升。报道同时指出，受此需求激增和产能消耗影响，台湾晶圆代工产能趋紧，相关芯片价格自上涨，并预计涨势延续到2026年下半年。. 重点内容： 苹果8月25日更新Mac mini和Mac Studio产品线。Mac. mini首次搭载采用2nm制程的M6芯片，苹果称其AI性能最高较M4版本提升4倍；中国起售价6999元，较上一代提高2500元。新款Mac Studio搭载M5 Max/M5 Ultra，起售价19999元，较上一代提高3500元。苹果称M6为其首款2nm芯片，并预计该芯片将应用于更多后续产品。. 第一财经日报（经 Factiva） ｜ 2026-08-25 20:02 香港时间 资本市场与企业动态.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-tmt-china-ai-stack",
@@ -609,8 +609,8 @@
       "sourceDate": "2026-08-26",
       "sourcePage": null,
       "evidenceExcerpt": "字节跳动于2026年8月25日发布AI办公产品“豆包工作”，并宣布把TRAE、扣子等相关产品与团队并入，飞书产品团队与豆包合并以实现深度打通。公司在8月24日回应称，此次调整为统一AI办公Agent产品与资源，现有用户权益不会受影响；组织此前已于7月30日对飞书团队做拆分和重组。. 来源： Manual curated ｜ 2026-08-25 16:13 香港时间. Agent采用增加正推升数据监控与可观测性需求。ClickHouse年化经常性收入（ARR）自5月增长40%至3.5亿美元；Cribl称其ARR接近4亿美元，较2月增长33%。Grafana也称收入近期回升。行业并购同步升温：Elastic以8500万美元收购Deductive AI，Dynatrace以9.15亿美元收购Arize AI，Snowflake在6月完成对Observe的10亿美元收购。. Information ｜ 2026-08-26 01:05 香港时间. Information报道，纪录片流媒体CuriosityStream通过向AI模型公司授权视频内容实现业绩回升。公司称其拥有逾300万小时视频与音频版权，过去已完成约25笔授权交易；据接近公司的消息人士，Meta、Google、xAI、OpenAI和Anthropic均曾授权其数据。公司称典型协议涵盖6000至10000小时视频，最大协议超过10万小时。. Information ｜ 2026-08-26 01:05 香港时间. Information ｜ 2026-08-26 01:05 香港时间. 财新援引高盛研究称，到2035年中国7nm及以下逻辑芯片的供需缺口预计缩至34%，较2025年的92%收窄。该机构预计，2025年至2035年中国先进制程晶圆供给将以46%的年复合增速增长，至每月41万片；同期需求预计增至每月61.9万片。报告还预计，2030年中国AI芯片总潜在市场将达约4.56万亿元，其中推理需求约占70%。. 台媒报道，AI数据中心正向兆瓦级架构转型，已成为对电力与半导体供应链的新压力点。该转型直接拉动对功率半导体、备用电源（UPS）、液冷系统、输电容量和低碳电力的需求上升。报道同时指出，受此需求激增和产能消耗影响，台湾晶圆代工产能趋紧，相关芯片价格自上涨，并预计涨势延续到2026年下半年。. 重点内容： 苹果8月25日更新Mac mini和Mac Studio产品线。Mac. mini首次搭载采用2nm制程的M6芯片，苹果称其AI性能最高较M4版本提升4倍；中国起售价6999元，较上一代提高2500元。新款Mac Studio搭载M5 Max/M5 Ultra，起售价19999元，较上一代提高3500元。苹果称M6为其首款2nm芯片，并预计该芯片将应用于更多后续产品。. 第一财经日报（经 Factiva） ｜ 2026-08-25 20:02 香港时间 资本市场与企业动态.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-tmt-china-ai-stack",
@@ -651,8 +651,8 @@
       "sourceDate": "2026-08-18",
       "sourcePage": null,
       "evidenceExcerpt": "Information称，供电延误正促使AI数据中心开发商把德州和“自备电力”项目作为优先选项。BloombergNEF预计，美国明年已安装的数据中心电力不足以运行全部新增AI芯片；若并网、海外部署和旧服务器替换没有加快，到2030年可能有对应42吉瓦负载的服务器芯片闲置。德州暂停部分公共电网接入审核之际，ERCOT待审并网申请已达474吉瓦。. Information ｜ 2026-08-18 08:00 香港时间. 行业技术媒体报道，随着AI机架功率从约125千瓦扩展到500千瓦乃至1兆瓦，数据中心正从传统415VAC→48V/12V多级转换，向800VDC两级或一体化架构演进。该方案依赖中压AC（如35kV）到800VDC的固态变压器，以及机架级使用碳化硅与氮化镓快速开关器件、改造后的DC‑DC与PMIC设计，以减少转换级数并降低总能耗与热负荷。. Engineering ｜ 2026-08-17 15:01 香港时间. Engineering ｜ 2026-08-17 15:01 香港时间. Information引述知情人士称，特斯拉计划最早于8月底在奥斯汀公开推出Cybercab，先让员工在公共道路试乘，数日后再将其加入Robotaxi服务。Cybercab取消方向盘和制动踏板；公司已进行道路测试、员工封闭道路试乘和应急人员培训，但公开时间仍可能调整，收费运营审批情况也未明确。. Y的额外硬件工作。但特斯拉累计无人驾驶里程仍显著低于Waymo，量产已不再预计于2026年实现；监管批准、远程接管和车队运营成本将决定其收入贡献速度。. Information ｜ 2026-08-18 03:26 香港时间 资本市场与企业动态. • 宇树8月19日上市，610亿元估 值与场外报价为机器人IPO定价提供首个标尺. 宇树科技将于8月19日在科创板上市，发行价150.80元，对应发行后市值609.93亿元。上市前，部分中介以每股410元至520元私下收购中签权益，而网上发行最终中签率仅0.0181%；这类交易依赖口头约定，缺乏合规交易平台和法律保护。宇树2025年营收16.99亿元、净利润2.78亿元，但2026年上半年营收增速已降至35.62%-45.41%。. 宇树上市后的价格和成交表现将成为人形机器人企业进入公开市场后的首个重要估值标尺，并影响约30至50家筹备赴港上市企业的融资预期。上市前高溢价私下报价反映稀缺性溢价，也暴露账户实名制和履约风险；投资者随后将更关注增长放缓、盈利质量与量产交付能否支撑610亿元估值。. 行业媒体报道，Taalas提出的Model‑Based芯片架构把模型结构、参数与权重直接硬编码入硅，宣称能在推理端显着优化能效与延迟。DIGITIMES称AMD在2026年8月初已同意收购Taalas，以增强在AI推理领域的定制化硬件能力，但交易金额与完成时点未披露。.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-tmt-robotics-deployment",
@@ -700,15 +700,15 @@
       "articleSlug": "industry-fi-regulated-digital-money",
       "card": 2,
       "value": "$30 billion to $88 trillion",
-      "statement": "current digital real-world assets and the upper-bound 2035 shift in investable assets described in the Weekly Brief; the latter is a scenario, not a forecast certainty.",
-      "classification": "scenario",
+      "statement": "current digital real-world assets of about $30 billion and an upper-bound 2035 scenario of up to $88 trillion described in the Weekly Brief.",
+      "classification": "mixed_status",
       "sourceRef": "brief:digital-assets",
       "sourceTitle": "Getting Real About Digital Assets",
       "sourceDate": "2026-08-04",
       "sourcePage": null,
       "evidenceExcerpt": "Cryptocurrencies such as Bitcoin boasted a total market cap of roughly $3 trillion at the end of 2025 and annual financial services revenue of $90 billion. Digital money comprises stablecoins-with a $300 billion market cap-along with tokenized commercial bank deposits and central bank digital currencies. Digital RWAs have a market cap of roughly $30 billion today. But by 2035, as much as 16% of investable assets globally, or $88 trillion, could shift to digital RWAs.. Our analysis suggests digital assets could erode up to 15% of banking revenues and 30% of profits by 2035 if adoption moves fast. The typical global bank can expect a bump in return on equity of up to 4 percentage points in its global trading business-an average $1 billion-plus profit increase.. By adopting technologies like blockchain-based accounts and programmable payments with JP Morgan Payments, Siemens’s treasury operation cut its global bank accounts and cash pools by more than half, saving over $20 million a year..",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-fi-regulated-digital-money",
@@ -763,8 +763,8 @@
       "sourceDate": "2026-05-13",
       "sourcePage": null,
       "evidenceExcerpt": "About 60% of leaders believe they have already encountered an AI-enabled attack, according to a BCG survey of 500 senior leaders.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-fi-trust-interoperability",
@@ -791,15 +791,15 @@
       "sourceDate": "2026-05-13",
       "sourcePage": null,
       "evidenceExcerpt": "About 60% of leaders believe they have already encountered an AI-enabled attack, according to a BCG survey of 500 senior leaders.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-fi-banking-economics",
       "card": 1,
       "value": "9.9% / 9.8%",
-      "statement": "EU/EEA banks' weighted-average 2025 return on equity and the EBA funding-plan forecast for 2026; later improvement depends partly on assumed cost reductions.",
-      "classification": "forecast",
+      "statement": "EU/EEA banks' weighted-average return on equity: 9.9% reported for 2025 and 9.8% forecast for 2026; later improvement depends partly on assumed cost reductions.",
+      "classification": "mixed_status",
       "sourceRef": "report:eba-risk-2026-06:p47",
       "sourceTitle": "Risk Assessment Report — June 2026",
       "sourceDate": "2026-06-18",
@@ -819,22 +819,22 @@
       "sourceDate": "2024-03-25",
       "sourcePage": null,
       "evidenceExcerpt": "Banks will also be critical in providing the $37 trillion needed to reach net zero goals by 2030. In a nutshell, the industry has still not recovered from the global banking crisis of 2008. The average return on equity has since declined by more than 450 basis points, and many banks, especially in Europe and parts of Asia, are trading below their book value. In 2023, the failure of a few high-profile banks in Europe and the US exposed the industry’s continued vulnerability. Direct commercial lending by asset management firms (such as private equity funds) grew by 20% annually between 2017 and 2022, compared with banks’ asset growth of less than 5%.. Despite these challenges, there is a window of opportunity for banks to create $7 trillion in shareholder value over the next five years-but only if they fundamentally reshape their organizations and collaborate with regulators.. Banks that fully adopt this model can improve productivity by as much as 40%.. Banks are too important for the overall economy and for societal progress to have underperformed for more than 15 years.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-fi-banking-economics",
       "card": 3,
       "value": "$7 trillion",
-      "statement": "five-year shareholder-value opportunity described for banks that fundamentally reshape their organizations.",
-      "classification": "survey",
+      "statement": "modelled five-year shareholder-value opportunity, conditional on banks fundamentally reshaping their organizations.",
+      "classification": "modelled_estimate",
       "sourceRef": "brief:banking",
       "sourceTitle": "Banking at a Crossroads",
       "sourceDate": "2024-03-25",
       "sourcePage": null,
       "evidenceExcerpt": "Banks will also be critical in providing the $37 trillion needed to reach net zero goals by 2030. In a nutshell, the industry has still not recovered from the global banking crisis of 2008. The average return on equity has since declined by more than 450 basis points, and many banks, especially in Europe and parts of Asia, are trading below their book value. In 2023, the failure of a few high-profile banks in Europe and the US exposed the industry’s continued vulnerability. Direct commercial lending by asset management firms (such as private equity funds) grew by 20% annually between 2017 and 2022, compared with banks’ asset growth of less than 5%.. Despite these challenges, there is a window of opportunity for banks to create $7 trillion in shareholder value over the next five years-but only if they fundamentally reshape their organizations and collaborate with regulators.. Banks that fully adopt this model can improve productivity by as much as 40%.. Banks are too important for the overall economy and for societal progress to have underperformed for more than 15 years.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-fi-banking-economics",
@@ -854,15 +854,15 @@
       "articleSlug": "industry-energy-execution-capacity",
       "card": 1,
       "value": "485 to 950 TWh",
-      "statement": "IEA central projection for global data-center electricity use between 2025 and 2030.",
-      "classification": "forecast",
+      "statement": "Data-center electricity consumption: 485 TWh estimated for 2025 to 950 TWh central projection for 2030.",
+      "classification": "mixed_status",
       "sourceRef": "report:iea-energy-ai-2026:p10",
       "sourceTitle": "Key Questions on Energy and AI",
       "sourceDate": "2026-04-16",
       "sourcePage": 10,
       "evidenceExcerpt": "world, major model providers reported a threefold increase in active users and a fivefold increase in revenue over the past year, highlighting the rapid growth of demand. Across the AI value chain, a scramble for electricity, grid connections, manufacturing capacity, chips and capital has set in The speed of the AI revolution is increasingly contrasting with the speed of the physical, social and economic systems that underpin it. Bottlenecks across energy supply chains and advanced chip manufacturing have tightened since our last report. Planning and regulatory systems are being stretched by the wave of project applications for data centres, amid a broader trend of rapid load growth and electrification. Social acceptability is also a growing issue, as communities push back against data centre projects, and concerns about affordability and environmental impacts rise. Essential elements within the IT industry are currently facing limitations; notably, a shortage of high-bandwidth memory - integral to AI chip production - has developed over the past six months and is anticipated to persist through at least the end of 2027. Data centre investments have grown too large to be funded from company balance sheets alone, and large amounts of funding from capital markets will be critical for their buildout. As a result, the pace of data centre growth, and the resulting increase in energy consumption, will be sensitive to market sentiment, including expectations for returns on investment in data centres and AI deployment, as well as to broader macroeconomic and financing conditions. Understanding the energy implications of AI therefore also means following closely the technology’s economic trajectory. Our updated data centre electricity demand outlook sees near-term bottlenecks but longer-term upside The central projection for electricity demand from data centres remains close to the trajectory set out in the IEA’s 2025 report. Our updated projections see electricity consumption from data centres roughly doubling from 485 TWh in 2025 to 950 TWh in 2030, accounting for around 3% of global electricity demand by that date. Electricity consumption from AI-focused data centres grows much faster than overall data centre electricity consumption, tripling in this period. Bottlenecks across the value chain, however, are reducing the likelihood of more aggressive near-term scenarios, despite booming investment and surging project pipelines. The mid- to longer-term outlook for data centre electricity demand sees a possible upside. Investments in relieving bottlenecks across energy equipment and chip manufacturing, and rapid uptake of energy-intensive use cases of AI, raise the prospect that there could be an even higher upside case after 2030. The IEA will continue to update its projections regularly. AI is pushing data centre power density to the limits of today’s technologies An individual server rack within an advanced data centre is only the size of a large refrigerator, but by 2027 it could have peak power demand equivalent to that of 65 households. The speed of this shift is remarkable: between 2020 and 2025, the power 10 International Energy Agency | Key questions on energy and AI .0.4 YB CC .AEI",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-energy-execution-capacity",
@@ -910,7 +910,7 @@
       "articleSlug": "industry-energy-security",
       "card": 1,
       "value": "2.5%",
-      "statement": "World Bank forecast for global growth in 2026, down from 2.9% in 2025 amid energy and geopolitical shocks.",
+      "statement": "World Bank forecast for global growth in 2026 amid energy and geopolitical shocks.",
       "classification": "forecast",
       "sourceRef": "report:world-bank-gep-2026-06:p25",
       "sourceTitle": "Global Economic Prospects — June 2026",
@@ -945,50 +945,50 @@
       "sourceDate": "2023-11-07",
       "sourcePage": null,
       "evidenceExcerpt": "Africa is a sprawling continent with 54 countries that cannot be understood by visiting two cities. More than one-third of people aged 15 to 24 will live on the continent by 2050. As the world transitions to clean energy, providing electricity to the 600 million people in Africa still without it is critical. Up to 90% of Kenya’s electricity is from clean sources.. The energy transition cannot come soon enough in Africa, with 35 of the 50 nations most vulnerable to climate change on the continent. Africa has 60% of the world’s uncultivated arable land, but nearly one- quarter of Africans are food insecure, and the continent remains a net importer of food. In Africa, 22% of working-age people start small businesses, compared with 18% in Latin America and 13% in Asia. The Springboks went on to win the 2023 Rugby World Cup, the tournament they have now won more than any other team.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-energy-security",
       "card": 4,
-      "value": "2.9% to 2.5%",
-      "statement": "World Bank change from 2025 global growth to its 2026 forecast, alongside emphasized downside risks.",
-      "classification": "forecast",
+      "value": "2.9%",
+      "statement": "World Bank estimate for global growth in 2025; the separate 2026 forecast is shown above.",
+      "classification": "modelled_estimate",
       "sourceRef": "report:world-bank-gep-2026-06:p25",
       "sourceTitle": "Global Economic Prospects — June 2026",
       "sourceDate": "2026-06-16",
       "sourcePage": 25,
       "evidenceExcerpt": "GLOBAL ECONOMIC PROSPECTS | JUNE 2026 CHAPTER 1 3 T he global economy is facing another major shock. The conf lict in the Middle East has triggered sharp increases in energy prices, renewed inflationary pressures, and fueled expectations of tighter monetary policy. Global growth is projected to slow from 2.9 percent in 2025 to 2.5 percent in 2026-the lowest rate since the COVID-19 pandemic-amid weaker prospects for economies dependent on energy imports and those directly affected by hostilities. Activity is expected to firm in 2027-28 as energy supplies recover, monetary easing resumes, and trade strengthens. Risks to the outlook remain skewed to the downside. A renewed escalation of hostilities or more prolonged disruptions to commodity flows could further raise commodity prices, intensify inflationary pressures and food insecurity, trigger financial stress, and lower growth. If energy supply disruptions prove to be more severe than assumed and are accompanied by substantial financial stress, global growth could fall to just 1.3 percent in 2026. Persistent trade policy uncertainty, geopolitical strains, and weather-related shocks also pose material risks. On the upside, a broadening of artificial intelligence (AI)-related investment and its adoption could lift activity. Policy action is critical to address ongoing challenges. Enhanced global cooperation is needed to safeguard energy and food security, bolster the trading system, and advance the energy transition. Domestically, policy makers will need to balance controlling inflation with supporting activity, strengthen fiscal sustainability, and maintain financial stability. Slower growth prospects translate into reduced investment, constrained hiring, and tighter fiscal space, compounding the challenge of creating jobs in EMDEs with growing workforces in an era of potentially transformative change linked to AI. Meeting this challenge will require a concerted agenda centered on the conditions for job creation: investing in physical, human, and digital capital; fostering a business-friendly environment; and mobilizing private investment. Summary with shipping volumes haltingly resuming thereaf- ter, and approaching pre-conflict levels by the end The global economic outlook has shifted markedly of the year. These disruptions are projected to as the conflict in the Middle East has generated keep energy prices elevated, with the Brent crude major disruptions in energy markets. Before the oil price averaging $94/barrel (bbl) in 2026, an outbreak of the conflict, global activity seemed to increase of 36 percent over 2025 and more than be on a firm footing, supported by strong growth 50 percent above the January projection. Europe- in some major economies and better-than- an natural gas prices are anticipated to rise about expected global trade, amid robust growth in 30 percent in 2026, on tightened liquefied natural artificial intelligence (AI)-related technology gas (LNG) availability globally. The conflict has exports and a slight decline in tariff levels. The also severely disrupted global fertilizer trade, conflict, however, has led to a marked deteriora- triggering sharp price increases that reflect the tion in the global outlook, with about two-thirds Gulf’s large share of global fertilizer exports and of economies around the world facing weaker the surge in natural gas prices, a key input for growth prospects (figure 1.1.A). nitrogen fertilizers. Disruptions to flows of energy and other com- While conflict-related disruptions are weighing on modity supplies from the Gulf region have led to commodity trade flows, an improved trade policy sharp commodity price increases (figure 1.1.B). environment and buoyant AI-related investment Overall, commodity prices are expected to rise by provide countervailing support to global trade 22 percent in 2026, in contrast to the 7 percent (figure 1.1.C). This is in part attributable to a decline expected in January. This reflects a baseline slight decline in U.S. tariffs following a U.S. assumption that shipping through the Strait of Supreme Court ruling that struck down tariffs Hormuz remains severely disrupted through July, imposed on international economic emergency grounds, alongside trade liberalization efforts by other countries. Note: This chapter was prepared by Carlos Arteta, Nikita Perevalov, Peter Selcuk, Phil Kenworthy, Jiwon Lee, and Garima The increase in commodity prices has led to a Vasishtha, with contributions from Gitanjali Kumar, Neha Varma, Mirco Balatti, and Alen Mulabdic, and inputs from Dawit notable resurgence of inflationary pressures. Mekonnen, Edoardo Palombo, Shijie Shi, Naotaka Sugawara, and Headline inflation has picked up in both advanced Takuma Tanaka.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-energy-bankable-transition",
       "card": 1,
       "value": "$37 trillion",
-      "statement": "transition investment need through 2030 cited in the Brief archive; only about half was described as committed.",
-      "classification": "reported_actual",
+      "statement": "estimated transition investment need through 2030 cited in the Brief archive.",
+      "classification": "modelled_estimate",
       "sourceRef": "brief:energy",
       "sourceTitle": "A Blueprint for the Energy Transition",
       "sourceDate": "2023-09-06",
       "sourcePage": null,
       "evidenceExcerpt": "Only one half of the $37 trillion investments needed by 2030 has been committed-and much of that is contingent on healthy returns.. We have proven technologies and a willingness to commit many trillions of dollars to the cause.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-energy-bankable-transition",
       "card": 2,
-      "value": "$30bn to $250bn",
-      "statement": "UAE climate fund and its 2030 investment-mobilization ambition reported from COP28.",
-      "classification": "forecast",
+      "value": "$30bn",
+      "statement": "announced launch size of the UAE climate fund reported from COP28.",
+      "classification": "company_reported",
       "sourceRef": "brief:encouraging-progress-at-cop28",
       "sourceTitle": "Encouraging Progress at COP28",
       "sourceDate": "2023-12-05",
       "sourcePage": null,
       "evidenceExcerpt": "We are concluding Day 5 atCOP28, and both of us have found the experience so far here on the ground in Dubai to be remarkable-and more hopeful than what you may be reading in the press.. This was quickly followed by over $700 million in commitments, including $100 million from the UAE. The UAE President Mohammed bin Zayed Al Nahyan announced a $30 billion fund for global climate solutions that aims to draw in $250 billion in investments by 2030. Included in this fund are $5 billion of concessionary capital to support the energy transition in low- and middle-income countries. The World Bank announced an additional $9 billion for projects related to climate finance for the fiscal year 2024-2025.. The Presidency announced that 134 world leaders have signed on to its landmark declaration on agriculture, food, and climate action, supported by more than $2.5 billion in funding, including the launch of the COP28 Action Agenda on Regenerative Landscapes, which will mobilize $2.2 billion of that funding. This initiative brings together more than 25 leading organizations partnering with 3.6 million farmers to transition 160 million hectares to regenerative agriculture (nearly three times the size of France). The numbers here are impressive, with more than 120 countries agreeing to triple renewable power generation capacity to 11,000 GW and double energy efficiency by the end of this decade. Fifty oil and gas companies pledged to reach near-zero methane emissions by 2030 and to submit a plan to meet those targets by 2025. The US, China, and the UAE held a Methane Summit, with China releasing a methane strategy and the US committing to cut methane emissions by 80% over the next 15 years. Because of the requirement for unanimous alignment across nearly 200 countries, this has been a daunting challenge in the past. Since 1995, we are 0 for 27 in getting a bold and sharp enough statement about transforming the global energy system and reducing our dependence on fossil fuels.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-energy-bankable-transition",
@@ -1007,16 +1007,16 @@
     {
       "articleSlug": "industry-energy-bankable-transition",
       "card": 4,
-      "value": "$30bn to $250bn",
-      "statement": "UAE climate fund launch size and its reported 2030 investment-mobilization ambition from the COP28 Brief.",
+      "value": "$250bn",
+      "statement": "2030 investment-mobilization target of the UAE climate fund reported in the COP28 Brief.",
       "classification": "forecast",
       "sourceRef": "brief:encouraging-progress-at-cop28",
       "sourceTitle": "Encouraging Progress at COP28",
       "sourceDate": "2023-12-05",
       "sourcePage": null,
       "evidenceExcerpt": "We are concluding Day 5 atCOP28, and both of us have found the experience so far here on the ground in Dubai to be remarkable-and more hopeful than what you may be reading in the press.. This was quickly followed by over $700 million in commitments, including $100 million from the UAE. The UAE President Mohammed bin Zayed Al Nahyan announced a $30 billion fund for global climate solutions that aims to draw in $250 billion in investments by 2030. Included in this fund are $5 billion of concessionary capital to support the energy transition in low- and middle-income countries. The World Bank announced an additional $9 billion for projects related to climate finance for the fiscal year 2024-2025.. The Presidency announced that 134 world leaders have signed on to its landmark declaration on agriculture, food, and climate action, supported by more than $2.5 billion in funding, including the launch of the COP28 Action Agenda on Regenerative Landscapes, which will mobilize $2.2 billion of that funding. This initiative brings together more than 25 leading organizations partnering with 3.6 million farmers to transition 160 million hectares to regenerative agriculture (nearly three times the size of France). The numbers here are impressive, with more than 120 countries agreeing to triple renewable power generation capacity to 11,000 GW and double energy efficiency by the end of this decade. Fifty oil and gas companies pledged to reach near-zero methane emissions by 2030 and to submit a plan to meet those targets by 2025. The US, China, and the UAE held a Methane Summit, with China releasing a methane strategy and the US committing to cut methane emissions by 80% over the next 15 years. Because of the requirement for unanimous alignment across nearly 200 countries, this has been a daunting challenge in the past. Since 1995, we are 0 for 27 in getting a bold and sharp enough statement about transforming the global energy system and reducing our dependence on fossil fuels.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-industrial-ai-innovation",
@@ -1071,8 +1071,8 @@
       "sourceDate": "2025-01-07",
       "sourcePage": 26,
       "evidenceExcerpt": "Future of Jobs Survey respondents estimate that 47% of work tasks are performed mainly by humans alone today. By 2030, employers expect the human-only, technology-only and human-machine shares to be nearly evenly split, with the human-only share at 33%. The report warns that this is a task-mix forecast, not a forecast of total work output.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-industrial-cost-fuel",
@@ -1085,8 +1085,8 @@
       "sourceDate": "2026-05-06",
       "sourcePage": null,
       "evidenceExcerpt": "AI leaders deliver 3 times greater cost reduction, 1.6 times higher EBIT margins, and 2.7 times the return on invested capital relative to their peers, according to BCG’s Build for the Future research.. The company has more than 2,000 brands and a presence in 185 countries. An AI solution scraped more than 200,000 purchase orders covering more than 100,000 spare parts. The insights generated allowed the company to consolidate nearly 7,900 suppliers into eight distributors.. In its first year, this three-year transformation delivered CHF 700 million ($900 million) in savings.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-industrial-cost-fuel",
@@ -1106,43 +1106,43 @@
       "articleSlug": "industry-industrial-cost-fuel",
       "card": 3,
       "value": "7,900 to 8",
-      "statement": "suppliers consolidated into distributors after analysis of more than 200,000 purchase orders and 100,000 spare parts.",
-      "classification": "modelled_estimate",
+      "statement": "company-reported consolidation of suppliers into distributors after analysis of more than 200,000 purchase orders and 100,000 spare parts; this is a case result, not a universal benchmark.",
+      "classification": "company_reported",
       "sourceRef": "brief:ai-cost",
       "sourceTitle": "When AI and Cost Become One Agenda",
       "sourceDate": "2026-05-06",
       "sourcePage": null,
       "evidenceExcerpt": "AI leaders deliver 3 times greater cost reduction, 1.6 times higher EBIT margins, and 2.7 times the return on invested capital relative to their peers, according to BCG’s Build for the Future research.. The company has more than 2,000 brands and a presence in 185 countries. An AI solution scraped more than 200,000 purchase orders covering more than 100,000 spare parts. The insights generated allowed the company to consolidate nearly 7,900 suppliers into eight distributors.. In its first year, this three-year transformation delivered CHF 700 million ($900 million) in savings.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-industrial-cost-fuel",
       "card": 4,
       "value": "60%",
-      "statement": "share of jobs in advanced economies that the IMF assessed as exposed to AI, indicating why task redesign and distributional effects matter alongside savings.",
-      "classification": "reported_actual",
+      "statement": "IMF modelled estimate of the share of jobs in advanced economies exposed to AI, based on occupational exposure indices; exposure is not job loss.",
+      "classification": "modelled_estimate",
       "sourceRef": "report:imf-gen-ai-work-2024:p2",
       "sourceTitle": "Gen-AI: Artificial Intelligence and the Future of Work",
       "sourceDate": "2024-01-14",
       "sourcePage": 2,
       "evidenceExcerpt": "In advanced economies, about 60 percent of jobs are exposed to AI. The IMF note states that roughly half of those exposed jobs may be negatively affected while the remainder could benefit from complementarity; exposure is not job loss.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-industrial-resilient-operations",
       "card": 1,
       "value": "4.6% to 1.9%",
-      "statement": "WTO baseline shift in merchandise-trade volume growth from 2025 to the 2026 forecast.",
-      "classification": "forecast",
+      "statement": "WTO merchandise-trade volume growth: 4.6% actual in 2025 to 1.9% baseline forecast for 2026.",
+      "classification": "mixed_status",
       "sourceRef": "report:wto-trade-outlook-2026:p4",
       "sourceTitle": "Global Trade Outlook and Statistics — March 2026",
       "sourceDate": "2026-03-19",
       "sourcePage": 4,
       "evidenceExcerpt": "GLOBAL TRADE OUTLOOK AND STATISTICS - MARCH 2026 Executive summary • World trade is set to slow in 2026 following a stronger than expected rise last year. In our baseline scenario, merchandise trade volume growth would drop from 4.6% in 2025 to 1.9% in 2026 before picking up to 2.6% in 2027. The same scenario for services trade volume would see growth easing from 5.3% in 2025 to 4.8% in 2026, then rising to 5.1% in 2027. • In 2025, world goods and services trade grew around 4.7%, exceeding world GDP growth of 2.9%. In 2026, goods and services trade and GDP should grow at around the same rate (2.7% for trade, 2.8% for GDP). • The current US dollar value of world merchandise trade as measured by exports was US$ 26.26 trillion in 2025, up 7% compared to 2024. Services trade reached US$ 9.56 trillion last year, up 8% over the previous year. Goods and services trade, on a balance-of-payments basis, came to US$ 34.65 trillion in 2025, up 7% year-on-year. • If sustained, the high oil prices related to the recent Middle East conflict could shave 0.5 percentage points off the 1.9% merchandise trade growth in 2026. Conversely, growth could also be boosted by 0.5 percentage points if trade in AI-related goods remains as strong as in 2025. Which factor will predominate over the course of the year remains to be seen. • The impact of the Middle East conflict on services trade could be as strong as on merchandise, subtracting 0.7 percentage points from growth in 2026, due to significant downside risks to international transport and travel. A prolonged conflict could keep transport and fuel costs structurally elevated, disrupt key shipping and air routes, and weigh on regional tourism and global travel demand. • The volume of world merchandise trade grew 4.6% in 2025, well above our October forecast of 2.4%, as surging demand for AI-related goods - related to the global investment boom in the sector - offset the negative impacts of higher tariffs and increased trade policy uncertainty. • The 2026 forecast for merchandise trade growth, while lower than the 2025 result, is still above the previous forecast of 0.5%. The revision was due to upgraded GDP growth projections, the expectation of continued strong growth in AI-related trade, and a smaller than anticipated impact of tariffs. Recent trade policy changes in 2026 mostly involved substitution of legal instruments rather than a substantive change in tariff barriers. 2",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-industrial-resilient-operations",
@@ -1162,15 +1162,15 @@
       "articleSlug": "industry-industrial-resilient-operations",
       "card": 3,
       "value": "2.9% annually",
-      "statement": "long-term global trade growth cited in the Weekly Brief, alongside a fundamental realignment of routes.",
-      "classification": "reported_actual",
+      "statement": "forecast average annual global-trade growth over the next decade cited in the Weekly Brief, alongside a fundamental realignment of routes.",
+      "classification": "forecast",
       "sourceRef": "brief:trade",
       "sourceTitle": "Navigating the New Dynamics of Global Trade",
       "sourceDate": "2025-01-14",
       "sourcePage": null,
       "evidenceExcerpt": "While global trade is expected to grow by 2.9% annually over the next decade, trade routes and relationships will fundamentally realign, according to our annual trade report.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-industrial-resilient-operations",
@@ -1267,8 +1267,8 @@
       "sourceDate": "2024-11-13",
       "sourcePage": null,
       "evidenceExcerpt": "A young country, it’s poised to becomethe world’s third-largest economy, with many forecasters calling for GDP to grow from $3.5 trillion today to $7 trillion by 2030.. An early 2024 BCG analysis predicted India’s external trade will grow by nearly $400 billion in the next ten years. India has 28 states and twice the population of the EU. They have sophisticated ways of assessing value, especially the growing affluent segment that will generate over half of household spending by 2030..",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-consumer-local-global",
@@ -1295,8 +1295,8 @@
       "sourceDate": "2024-11-13",
       "sourcePage": null,
       "evidenceExcerpt": "A young country, it’s poised to becomethe world’s third-largest economy, with many forecasters calling for GDP to grow from $3.5 trillion today to $7 trillion by 2030.. An early 2024 BCG analysis predicted India’s external trade will grow by nearly $400 billion in the next ten years. India has 28 states and twice the population of the EU. They have sophisticated ways of assessing value, especially the growing affluent segment that will generate over half of household spending by 2030..",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-consumer-ai-commercial-system",
@@ -1323,8 +1323,8 @@
       "sourceDate": "2026-07-28",
       "sourcePage": null,
       "evidenceExcerpt": "Meanwhile, the overall bill can easily exceed expectations: IDC projects that the top 1,000 global companies will underestimate their AI infrastructure costs by as much as 30% through 2027. Margins for AI-enabled software are 65%-80% and 50%-65% for AI-native products.",
-      "status": "verified",
-      "qaNote": "Verified against the cited Brief passage or official report page."
+      "status": "corrected_and_verified",
+      "qaNote": "Corrected during source-level QA; the published card now matches the cited evidence and its measurement type."
     },
     {
       "articleSlug": "industry-consumer-ai-commercial-system",
