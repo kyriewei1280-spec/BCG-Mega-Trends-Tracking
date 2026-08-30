@@ -9,7 +9,7 @@
     "titleZh": "AI成为企业的操作系统",
     "pdfEn": "analysis/en/mega-01-ai-operating-system.pdf",
     "pdfZh": "analysis/zh/mega-01-ai-operating-system.pdf",
-    "pagesEn": 4,
+    "pagesEn": 5,
     "pagesZh": 4,
     "briefIds": [
       "digital-assets",
@@ -70,7 +70,7 @@
       "oecd-digital-outlook-2024",
       "imf-gen-ai-work-2024"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -83,7 +83,7 @@
     "titleZh": "管理而非技术成为AI规模化的核心约束",
     "pdfEn": "analysis/en/mega-02-management-constraint.pdf",
     "pdfZh": "analysis/zh/mega-02-management-constraint.pdf",
-    "pagesEn": 4,
+    "pagesEn": 5,
     "pagesZh": 4,
     "briefIds": [
       "strategic-clarity-drives-ai-value",
@@ -107,7 +107,7 @@
       "wef-future-jobs-2025",
       "imf-gen-ai-work-2024"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -120,7 +120,7 @@
     "titleZh": "韧性成为长期战略设定",
     "pdfEn": "analysis/en/mega-03-resilience-strategy.pdf",
     "pdfZh": "analysis/zh/mega-03-resilience-strategy.pdf",
-    "pagesEn": 4,
+    "pagesEn": 5,
     "pagesZh": 4,
     "briefIds": [
       "unlocking-an-essential-source-of-investment-in-europe",
@@ -162,7 +162,7 @@
       "wef-risks-2026",
       "wto-gvc-2025"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -239,7 +239,7 @@
       "wef-future-jobs-2025",
       "imf-gen-ai-work-2024"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -252,7 +252,7 @@
     "titleZh": "资本重新流向战略能力",
     "pdfEn": "analysis/en/mega-05-capital-strategic-capacity.pdf",
     "pdfZh": "analysis/zh/mega-05-capital-strategic-capacity.pdf",
-    "pagesEn": 4,
+    "pagesEn": 5,
     "pagesZh": 4,
     "briefIds": [
       "digital-assets",
@@ -306,7 +306,7 @@
       "goldman-ai-capex-2026",
       "bis-trust-money-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -357,7 +357,7 @@
       "wef-risks-2026",
       "iea-energy-ai-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -370,7 +370,7 @@
     "titleZh": "增长重心转向大型、本地化且年轻的市场",
     "pdfEn": "analysis/en/mega-07-growth-local-youthful-markets.pdf",
     "pdfZh": "analysis/zh/mega-07-growth-local-youthful-markets.pdf",
-    "pagesEn": 4,
+    "pagesEn": 5,
     "pagesZh": 4,
     "briefIds": [
       "the-business-of-football",
@@ -429,7 +429,7 @@
       "itu-connectivity-2025",
       "imf-gen-ai-work-2024"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -442,7 +442,7 @@
     "titleZh": "AI基础设施成为全栈约束",
     "pdfEn": "analysis/en/industry-tmt-ai-infrastructure.pdf",
     "pdfZh": "analysis/zh/industry-tmt-ai-infrastructure.pdf",
-    "pagesEn": 4,
+    "pagesEn": 5,
     "pagesZh": 4,
     "briefIds": [
       "ai-cost",
@@ -461,7 +461,7 @@
       "oecd-digital-outlook-2024",
       "goldman-tracking-trillions-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -474,7 +474,7 @@
     "titleZh": "AI资本进入回报与利用率审视阶段",
     "pdfEn": "analysis/en/industry-tmt-ai-capital-returns.pdf",
     "pdfZh": "analysis/zh/industry-tmt-ai-capital-returns.pdf",
-    "pagesEn": 4,
+    "pagesEn": 5,
     "pagesZh": 4,
     "briefIds": [
       "tmt-daily-2026-08-27",
@@ -492,7 +492,7 @@
       "bcg-ai-dividend-2026",
       "oecd-digital-outlook-2024"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -505,7 +505,7 @@
     "titleZh": "智能体AI成为新的商业交互界面",
     "pdfEn": "analysis/en/industry-tmt-agentic-interface.pdf",
     "pdfZh": "analysis/zh/industry-tmt-agentic-interface.pdf",
-    "pagesEn": 4,
+    "pagesEn": 5,
     "pagesZh": 4,
     "briefIds": [
       "ai-bill",
@@ -523,7 +523,7 @@
       "mckinsey-state-ai-2025",
       "bcg-ai-dividend-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -536,7 +536,7 @@
     "titleZh": "中国AI技术栈在约束下加速本地化",
     "pdfEn": "analysis/en/industry-tmt-china-ai-stack.pdf",
     "pdfZh": "analysis/zh/industry-tmt-china-ai-stack.pdf",
-    "pagesEn": 4,
+    "pagesEn": 5,
     "pagesZh": 4,
     "briefIds": [
       "tmt-daily-2026-08-27",
@@ -554,7 +554,7 @@
       "itu-connectivity-2025",
       "wto-gvc-2025"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -568,7 +568,7 @@
     "pdfEn": "analysis/en/industry-tmt-robotics-deployment.pdf",
     "pdfZh": "analysis/zh/industry-tmt-robotics-deployment.pdf",
     "pagesEn": 4,
-    "pagesZh": 3,
+    "pagesZh": 4,
     "briefIds": [
       "tmt-daily-2026-08-25",
       "tmt-daily-2026-08-18",
@@ -581,7 +581,7 @@
       "unido-idr-2026",
       "bcg-ai-dividend-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -595,7 +595,7 @@
     "pdfEn": "analysis/en/industry-fi-regulated-digital-money.pdf",
     "pdfZh": "analysis/zh/industry-fi-regulated-digital-money.pdf",
     "pagesEn": 4,
-    "pagesZh": 3,
+    "pagesZh": 4,
     "briefIds": [
       "digital-assets",
       "banking",
@@ -606,7 +606,7 @@
       "bcg-digital-assets-2026",
       "jpm-payments-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -620,7 +620,7 @@
     "pdfEn": "analysis/en/industry-fi-trust-interoperability.pdf",
     "pdfZh": "analysis/zh/industry-fi-trust-interoperability.pdf",
     "pagesEn": 4,
-    "pagesZh": 3,
+    "pagesZh": 4,
     "briefIds": [
       "fintech",
       "banking",
@@ -632,7 +632,7 @@
       "eba-risk-2026-06",
       "jpm-payments-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -646,7 +646,7 @@
     "pdfEn": "analysis/en/industry-fi-banking-economics.pdf",
     "pdfZh": "analysis/zh/industry-fi-banking-economics.pdf",
     "pagesEn": 4,
-    "pagesZh": 3,
+    "pagesZh": 4,
     "briefIds": [
       "banking",
       "digital-assets",
@@ -659,7 +659,7 @@
       "jpm-midyear-2026",
       "bis-trust-money-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -673,7 +673,7 @@
     "pdfEn": "analysis/en/industry-energy-execution-capacity.pdf",
     "pdfZh": "analysis/zh/industry-energy-execution-capacity.pdf",
     "pagesEn": 4,
-    "pagesZh": 3,
+    "pagesZh": 4,
     "briefIds": [
       "energy",
       "trade",
@@ -686,7 +686,7 @@
       "iea-energy-ai-2026",
       "bcg-grid-positive-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -700,7 +700,7 @@
     "pdfEn": "analysis/en/industry-energy-security.pdf",
     "pdfZh": "analysis/zh/industry-energy-security.pdf",
     "pagesEn": 4,
-    "pagesZh": 3,
+    "pagesZh": 4,
     "briefIds": [
       "energy",
       "trade",
@@ -716,7 +716,7 @@
       "imf-weo-2026-07",
       "wef-risks-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -746,7 +746,7 @@
       "goldman-data-center-power-2026",
       "bcg-grid-positive-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -775,7 +775,7 @@
       "mckinsey-state-ai-2025",
       "wef-future-jobs-2025"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -804,7 +804,7 @@
       "oecd-ai-adoption-2026",
       "imf-gen-ai-work-2024"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -818,7 +818,7 @@
     "pdfEn": "analysis/en/industry-industrial-resilient-operations.pdf",
     "pdfZh": "analysis/zh/industry-industrial-resilient-operations.pdf",
     "pagesEn": 4,
-    "pagesZh": 3,
+    "pagesZh": 4,
     "briefIds": [
       "trade",
       "india",
@@ -832,7 +832,7 @@
       "world-bank-gep-2026-06",
       "wef-risks-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -846,7 +846,7 @@
     "pdfEn": "analysis/en/industry-consumer-two-speed-demand.pdf",
     "pdfZh": "analysis/zh/industry-consumer-two-speed-demand.pdf",
     "pagesEn": 4,
-    "pagesZh": 3,
+    "pagesZh": 4,
     "briefIds": [
       "india",
       "trade",
@@ -859,7 +859,7 @@
       "world-bank-gep-2026-06",
       "fao-food-outlook-2026-06"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -889,7 +889,7 @@
       "mckinsey-consumer-2026",
       "wto-trade-outlook-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   },
   {
@@ -903,7 +903,7 @@
     "pdfEn": "analysis/en/industry-consumer-ai-commercial-system.pdf",
     "pdfZh": "analysis/zh/industry-consumer-ai-commercial-system.pdf",
     "pagesEn": 4,
-    "pagesZh": 3,
+    "pagesZh": 4,
     "briefIds": [
       "ai-bill",
       "ai-cost",
@@ -918,7 +918,7 @@
       "jpm-payments-2026",
       "goldman-tracking-trillions-2026"
     ],
-    "generated": "2026-08-30",
+    "generated": "2026-08-31",
     "asOf": "2026-08-27"
   }
 ]
