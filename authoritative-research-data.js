@@ -203,3 +203,172 @@ window.RESEARCH_DATA = [
     url: 'https://www.imf.org/-/media/files/publications/sdn/2024/english/sdnea2024001.pdf', format: 'PDF'
   }
 ];
+
+// Complete available USCC annual-report series. The official archive lists
+// 2002 and every year from 2004 through 2025; no 2003 edition is published.
+// Treat these records as one longitudinal institutional series, not as 23
+// independent confirmations of a trend.
+const USCC_INSTITUTION = 'U.S.-China Economic and Security Review Commission';
+window.RESEARCH_DATA.push(
+  {
+    id: 'uscc-annual-report-2002', title: '2002 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2002-07-15', year: '2002', type: 'Government & policy',
+    industries: ['Cross-industry', 'Industrial Goods', 'Financial Institutions', 'Technology, Media & Telecommunications'], mega: ['03', '05'],
+    summary: 'The Commission’s first baseline links expanding bilateral trade and investment to WTO compliance, capital-market access, technology transfer, military acquisition, and cross-Strait risk.',
+    titleZh: '《2002年美国国会年度报告》', summaryZh: '首份年度基线将中美贸易投资扩张，与WTO履约、美国资本市场准入、技术转移、军事采购及台海风险联系起来。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/2002%20Annual%20Report%20to%20Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2004', title: '2004 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2004-05-14', year: '2004', type: 'Government & policy',
+    industries: ['Cross-industry', 'Industrial Goods', 'Financial Institutions', 'Energy', 'Technology, Media & Telecommunications'], mega: ['03', '05', '06'],
+    summary: 'Reviews China’s industrial and investment policies, WTO compliance, capital-market presence, energy strategy, high-technology development, and regional security posture.',
+    titleZh: '《2004年美国国会年度报告》', summaryZh: '审视中国的产业与投资政策、WTO履约、资本市场参与、能源战略、高技术发展及区域安全态势。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/2004-Report-to-Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2005', title: '2005 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2005-11-09', year: '2005', type: 'Government & policy',
+    industries: ['Cross-industry', 'Industrial Goods', 'Technology, Media & Telecommunications', 'Energy'], mega: ['03', '05', '07'],
+    summary: 'Connects the bilateral trade imbalance and China’s technology strategy with pressure on the U.S. industrial base, energy-driven foreign engagement, and regional security competition.',
+    titleZh: '《2005年美国国会年度报告》', summaryZh: '将双边贸易失衡与中国技术战略，同美国工业基础承压、能源驱动的对外活动及区域安全竞争联系起来。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/2005-Report-to-Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2006', title: '2006 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2006-10-30', year: '2006', type: 'Government & policy',
+    industries: ['Cross-industry', 'Industrial Goods', 'Financial Institutions', 'Energy'], mega: ['03', '05'],
+    summary: 'Focuses on WTO and intellectual-property compliance, China’s financial system and resource strategy, and an automotive case illustrating state-supported manufacturing competition.',
+    titleZh: '《2006年美国国会年度报告》', summaryZh: '聚焦WTO与知识产权履约、中国金融体系与资源战略，并以汽车业案例说明国家支持下的制造业竞争。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/USCC%20Annual%20Report%202006.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2007', title: '2007 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2007-10-29', year: '2007', type: 'Government & policy',
+    industries: ['Cross-industry', 'Industrial Goods', 'Energy', 'Technology, Media & Telecommunications'], mega: ['03', '06', '07'],
+    summary: 'Reviews state influence over trade and industry, defense-industrial exposure, science and technology, energy and environmental policy, and China’s regional role.',
+    titleZh: '《2007年美国国会年度报告》', summaryZh: '审视国家对贸易与产业的影响、国防工业暴露、科技发展、能源与环境政策以及中国的区域角色。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/2007-Report-to-Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2008', title: '2008 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2008-10-27', year: '2008', type: 'Government & policy',
+    industries: ['Cross-industry', 'Financial Institutions', 'Energy', 'Technology, Media & Telecommunications'], mega: ['03', '05', '06'],
+    summary: 'Traces sovereign and state-linked capital, research and technology advances, cyber and space activity, energy pressures, and China’s expanding global influence.',
+    titleZh: '《2008年美国国会年度报告》', summaryZh: '追踪主权及国家关联资本、研发与技术进步、网络与太空活动、能源压力及中国不断扩大的全球影响力。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/2008-Report-to-Congress-_0.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2009', title: '2009 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2009-10-28', year: '2009', type: 'Government & policy',
+    industries: ['Cross-industry', 'Financial Institutions', 'Industrial Goods', 'Technology, Media & Telecommunications'], mega: ['03', '05', '06'],
+    summary: 'Examines the financial-crisis context, industrial policy, trade exposure, cyber and human espionage, and China’s evolving regional influence.',
+    titleZh: '《2009年美国国会年度报告》', summaryZh: '分析金融危机背景、产业政策、贸易暴露、网络与人员情报活动以及中国不断演变的区域影响。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/2009-Report-to-Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2010', title: '2010 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2010-10-29', year: '2010', type: 'Government & policy',
+    industries: ['Cross-industry', 'Financial Institutions', 'Energy', 'Industrial Goods', 'Technology, Media & Telecommunications'], mega: ['03', '06', '07'],
+    summary: 'Reviews trade and Treasury exposure, WTO participation, aviation capacity, green-energy industrial policy, and the external implications of internet controls.',
+    titleZh: '《2010年美国国会年度报告》', summaryZh: '审视贸易与美国国债暴露、WTO参与、航空产业能力、绿色能源产业政策及互联网管控的外部影响。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/2010-Report-to-Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2011', title: '2011 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2011-11-09', year: '2011', type: 'Government & policy',
+    industries: ['Cross-industry', 'Industrial Goods', 'Technology, Media & Telecommunications', 'Financial Institutions'], mega: ['03', '05'],
+    summary: 'Assesses state-owned enterprises, indigenous innovation, intellectual property, five-year technology planning, internal imbalances, and space and security capabilities.',
+    titleZh: '《2011年美国国会年度报告》', summaryZh: '评估国有企业、自主创新、知识产权、五年科技规划、内部失衡以及太空与安全能力。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/annual_report_full_11.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2012', title: '2012 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2012-11-09', year: '2012', type: 'Government & policy',
+    industries: ['Cross-industry', 'Industrial Goods', 'Technology, Media & Telecommunications', 'Financial Institutions', 'Energy'], mega: ['03', '05', '07'],
+    summary: 'Examines state-owned enterprise competition, trade and investment, cyber activity, global resource control, innovation capacity, and China’s reach in Europe and Asia.',
+    titleZh: '《2012年美国国会年度报告》', summaryZh: '分析国企竞争、贸易与投资、网络活动、全球资源控制、创新能力以及中国在欧洲和亚洲的影响。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/2012-Report-to-Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2013', title: '2013 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2013-11-13', year: '2013', type: 'Government & policy',
+    industries: ['Cross-industry', 'Financial Institutions', 'Agriculture & Food', 'Industrial Goods', 'Technology, Media & Telecommunications'], mega: ['03', '07'],
+    summary: 'Reviews bilateral investment, financial-system governance, agriculture and food safety, cyber activity, maritime disputes, and China’s expanding global role.',
+    titleZh: '《2013年美国国会年度报告》', summaryZh: '审视双边投资、金融体系治理、农业与食品安全、网络活动、海上争端以及中国不断扩大的全球角色。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/Complete%202013%20Annual%20Report.PDF', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2014', title: '2014 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2014-11-20', year: '2014', type: 'Government & policy',
+    industries: ['Cross-industry', 'Health Care', 'Energy', 'Industrial Goods'], mega: ['03', '06', '07'],
+    summary: 'Examines trade and market access, health care and drug safety, clean-energy cooperation, domestic stability, military modernization, and regional security.',
+    titleZh: '《2014年美国国会年度报告》', summaryZh: '分析贸易与市场准入、医疗与药品安全、清洁能源合作、国内稳定、军事现代化及区域安全。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/Complete%20Report.PDF', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2015', title: '2015 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2015-11-18', year: '2015', type: 'Government & policy',
+    industries: ['Industrial Goods', 'Technology, Media & Telecommunications'], mega: ['03', '05'],
+    summary: 'China’s slowdown exposed the limits of state-led rebalancing as Beijing intensified industrial policy, constrained foreign market access, and expanded cyber and digital trade barriers.',
+    titleZh: '《2015年美国国会年度报告》', summaryZh: '中国经济放缓暴露出国家主导型再平衡的局限，同时产业政策、外资准入限制以及网络与数字贸易壁垒继续加强。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/2015%20Annual%20Report%20to%20Congress.PDF', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2016', title: '2016 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2016-11-16', year: '2016', type: 'Government & policy',
+    industries: ['Industrial Goods', 'Energy'], mega: ['05', '06', '07'],
+    summary: 'Credit-led stabilization, entrenched state-owned enterprises, and overcapacity coexisted with a capital-intensive plan for advanced industry, urbanization, health, and clean energy.',
+    titleZh: '《2016年美国国会年度报告》', summaryZh: '信贷驱动的稳增长、国企主导和产能过剩，与面向先进产业、城镇化、医疗和清洁能源的大规模资本计划并存。',
+    url: 'https://www.uscc.gov/sites/default/files/annual_reports/2016%20Annual%20Report%20to%20Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2017', title: '2017 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2017-11-15', year: '2017', type: 'Government & policy',
+    industries: ['Technology, Media & Telecommunications', 'Consumer Products & Retail', 'Financial Institutions'], mega: ['03', '05', '07'],
+    summary: 'State-backed technology expansion, strategic outbound investment, and tighter data controls reshaped competition while China’s consumer and digital markets grew behind persistent access barriers.',
+    titleZh: '《2017年美国国会年度报告》', summaryZh: '国家支持的技术扩张、战略性海外投资和数据管控重塑竞争格局；与此同时，中国消费与数字市场在持续准入壁垒下快速增长。',
+    url: 'https://www.uscc.gov/sites/default/files/2019-09/2017_Annual_Report_to_Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2018', title: '2018 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2018-11-14', year: '2018', type: 'Government & policy',
+    industries: ['Technology, Media & Telecommunications', 'Industrial Goods', 'Consumer Products & Retail'], mega: ['03', '05'],
+    summary: 'The trade conflict shifted industrial policy, technology transfer, data localization, and 5G supply chains from commercial frictions into explicit economic-security issues.',
+    titleZh: '《2018年美国国会年度报告》', summaryZh: '贸易冲突将产业政策、技术转让、数据本地化和5G供应链从商业摩擦推向显性的经济安全议题。',
+    url: 'https://www.uscc.gov/sites/default/files/2019-09/2018%20Annual%20Report%20to%20Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2019', title: '2019 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2019-11-14', year: '2019', type: 'Government & policy',
+    industries: ['Technology, Media & Telecommunications', 'Energy', 'Industrial Goods'], mega: ['03', '05', '06'],
+    summary: 'Trade and technology rivalry hardened into self-reliance and military-civil fusion, with batteries, advanced materials, AI, and pharmaceutical dependence emerging as strategic supply-chain exposures.',
+    titleZh: '《2019年美国国会年度报告》', summaryZh: '贸易与技术竞争进一步演变为技术自立和军民融合，电池、先进材料、AI与医药依赖成为战略供应链风险。',
+    url: 'https://www.uscc.gov/sites/default/files/2019-11/2019%20Annual%20Report%20to%20Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2020', title: '2020 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2020-12-01', year: '2020', type: 'Government & policy',
+    industries: ['Financial Institutions', 'Technology, Media & Telecommunications', 'Industrial Goods'], mega: ['03', '05', '07'],
+    summary: 'COVID-19 accelerated supply-chain reassessment as state-led recovery, technology standards, financial opacity, health data, and cross-border capital became intertwined with strategic competition.',
+    titleZh: '《2020年美国国会年度报告》', summaryZh: '新冠疫情加速供应链重估，国家主导型复苏、技术标准、金融透明度、健康数据与跨境资本进一步被纳入战略竞争。',
+    url: 'https://www.uscc.gov/sites/default/files/2020-12/2020_Annual_Report_to_Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2021', title: '2021 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2021-11-17', year: '2021', type: 'Government & policy',
+    industries: ['Cross-industry', 'Technology, Media & Telecommunications', 'Financial Institutions', 'Industrial Goods', 'Energy'], mega: ['03', '05'],
+    summary: 'Examines China’s state-directed push for technological self-sufficiency, tighter corporate and capital-market control, digital currency, and expanding economic leverage across critical supply chains and emerging markets.',
+    titleZh: '《2021年美国国会年度报告》', summaryZh: '分析中国以国家主导方式推进科技自立、强化企业与资本市场控制、发展数字人民币，并通过关键供应链和新兴市场扩大经济影响力。',
+    url: 'https://www.uscc.gov/sites/default/files/2021-11/2021_Annual_Report_to_Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2022', title: '2022 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2022-11-15', year: '2022', type: 'Government & policy',
+    industries: ['Cross-industry', 'Industrial Goods', 'Energy', 'Technology, Media & Telecommunications'], mega: ['03', '05', '06'],
+    summary: 'Examines centralized policymaking, state-capitalist trade practices, energy security, critical-supply-chain concentration, and China’s expanding cyber capabilities.',
+    titleZh: '《2022年美国国会年度报告》', summaryZh: '分析决策集中化、国家资本主义贸易实践、能源安全、关键供应链集中度及中国不断扩张的网络能力。',
+    url: 'https://www.uscc.gov/sites/default/files/2022-11/2022_Annual_Report_to_Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2023', title: '2023 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2023-11-14', year: '2023', type: 'Government & policy',
+    industries: ['Cross-industry', 'Technology, Media & Telecommunications', 'Financial Institutions', 'Industrial Goods', 'Consumer Products & Retail'], mega: ['03', '05'],
+    summary: 'Examines de-risking and semiconductor controls, China’s debt- and property-led slowdown, workforce constraints, and the military-civil technology contest.',
+    titleZh: '《2023年美国国会年度报告》', summaryZh: '分析去风险化与半导体管制、中国债务和房地产驱动的经济放缓、人才约束及军民技术竞争。',
+    url: 'https://www.uscc.gov/sites/default/files/2023-11/2023_Annual_Report_to_Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2024', title: '2024 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2024-11-19', year: '2024', type: 'Government & policy',
+    industries: ['Cross-industry', 'Technology, Media & Telecommunications', 'Industrial Goods', 'Consumer Products & Retail', 'Energy', 'Financial Institutions'], mega: ['03', '05', '06'],
+    summary: 'Examines China’s export-led manufacturing strategy, emerging-technology competition, cross-border e-commerce enforcement gaps, and mobilization across industrial, energy, and financial systems.',
+    titleZh: '《2024年美国国会年度报告》', summaryZh: '分析中国出口导向型制造战略、新兴技术竞争、跨境电商监管缺口，以及工业、能源和金融体系的综合动员。',
+    url: 'https://www.uscc.gov/sites/default/files/2024-11/2024_Annual_Report_to_Congress.pdf', format: 'PDF'
+  },
+  {
+    id: 'uscc-annual-report-2025', title: '2025 Annual Report to Congress', institution: USCC_INSTITUTION, date: '2025-11-18', year: '2025', type: 'Government & policy',
+    industries: ['Cross-industry', 'Industrial Goods', 'Technology, Media & Telecommunications', 'Energy', 'Consumer Products & Retail'], mega: ['03', '05', '06', '07'],
+    summary: 'Examines China’s two-speed economy, interlocking manufacturing-innovation flywheels, supply-chain weaponization, electrification strategy, and deepening influence in emerging markets.',
+    titleZh: '《2025年美国国会年度报告》', summaryZh: '分析中国的两速经济、制造与创新相互强化的飞轮、供应链武器化、电气化战略及其在新兴市场不断扩大的影响。',
+    url: 'https://www.uscc.gov/sites/default/files/2025-11/2025_Annual_Report_to_Congress.pdf', format: 'PDF'
+  }
+);
